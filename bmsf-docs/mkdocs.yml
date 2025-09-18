@@ -1,0 +1,104 @@
+site_name: B.M. Sabab Foundation
+site_description: Inheritable, audit-ready documentation for ethical governance and global humanitarian service
+site_author: MJ-Ahmad
+repo_url: https://github.com/mj-nexara/bmsf
+docs_dir: docs
+site_url: https://mj-nexara.github.io/bmsf/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: blue
+      accent: deep orange
+    - scheme: slate
+      primary: teal
+      accent: amber
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+nav:
+  - Home: index.md
+  - 00 About:
+      - Mission & Vision: 00_About/README.md
+  - 01 Governance:
+      - Board & Structure: 01_Governance/README.md
+      - Ethics & Conflict Policy: 01_Governance/Policies/Ethics_Policy.md
+  - 02 Legal Compliance:
+      - National Laws:
+          - NGO Affairs Guide: 02_Legal_Compliance/National_Laws/NGO_Affairs_Guide.md
+          - Labor Law Summary: 02_Legal_Compliance/National_Laws/Labor_Law_Summary.md
+      - International Laws:
+          - UN Human Rights: 02_Legal_Compliance/International_Laws/UN_Human_Rights_Framework.md
+          - FATF Compliance: 02_Legal_Compliance/International_Laws/FATF_Compliance.md
+  - 03 Finance:
+      - Donation Sources:
+          - Local Donors: 03_Finance/Donation_Sources/Local_Donors.yaml
+          - Global Donors: 03_Finance/Donation_Sources/Global_Donors.yaml
+      - Receiving Protocols:
+          - Bank Transfer: 03_Finance/Fund_Receiving_Protocols/Bank_Transfer.md
+          - Mobile Finance: 03_Finance/Fund_Receiving_Protocols/Mobile_Finance_Gateway.md
+      - Disbursement Policy:
+          - Gaza Relief: 03_Finance/Disbursement_Policy/Gaza_Relief_Disbursement.md
+          - Rural Bangladesh: 03_Finance/Disbursement_Policy/Rural_Bangladesh_Programs.md
+      - Budget Tracking:
+          - Annual Budget: 03_Finance/Budget_Tracking/Annual_Budget_2025.xlsx
+          - Monthly Logs: 03_Finance/Budget_Tracking/Monthly_Expense_Log.yaml
+      - Audit Reports:
+          - Internal Audit: 03_Finance/Audit_Reports/Internal_Audit_2024.pdf
+          - Donor Transparency: 03_Finance/Audit_Reports/Donor_Transparency_Report.md
+  - 04 HR & Volunteers:
+      - Staff Contracts:
+          - BD Template: 04_HR_and_Volunteers/Staff_Contracts/Template_Contract_BD.docx
+          - Gaza Field Staff: 04_HR_and_Volunteers/Staff_Contracts/Gaza_Field_Staff_Contract.docx
+      - Volunteer Management:
+          - Local Guide: 04_HR_and_Volunteers/Volunteer_Management/Local_Volunteer_Guide.md
+          - Gaza Deployment: 04_HR_and_Volunteers/Volunteer_Management/Gaza_Deployment_Protocol.md
+      - Honorarium & Compensation:
+          - Salary Structure: 04_HR_and_Volunteers/Honorarium_and_Compensation/Staff_Salary_Structure_BD.xlsx
+          - Donor-Funded Logs: 04_HR_and_Volunteers/Honorarium_and_Compensation/Donor_Funded_Compensation.yaml
+      - Training & Ethics:
+          - Onboarding Manual: 04_HR_and_Volunteers/Training_and_Ethics/Onboarding_Manual.md
+          - Trauma Sensitivity: 04_HR_and_Volunteers/Training_and_Ethics/Trauma_Sensitivity_Training.md
+      - Field Deployment Records:
+          - Gaza Team: 04_HR_and_Volunteers/Field_Deployment_Records/Gaza_Team_2025.yaml
+          - Rural BD Teams: 04_HR_and_Volunteers/Field_Deployment_Records/Rural_BD_Teams_2024.xlsx
+  - 05 Programs & Operations:
+      - National Programs:
+          - Legal Aid: 05_Programs_and_Operations/National_Programs/Legal_Aid/README.md
+          - Education: 05_Programs_and_Operations/National_Programs/Education/README.md
+      - International Programs:
+          - Refugee Support: 05_Programs_and_Operations/International_Programs/Refugee_Support/README.md
+          - Global Advocacy: 05_Programs_and_Operations/International_Programs/Global_Advocacy/README.md
+  - 06 Monitoring & Evaluation:
+      - Framework & KPIs: 06_Monitoring_and_Evaluation/M&E_Framework.md
+      - Field Reports: 06_Monitoring_and_Evaluation/Field_Reports/Dhaka_2024.md
+  - 07 IT & Digital:
+      - Platforms & Privacy: 07_IT_and_Digital/Online_Platforms.md
+      - YAML Logs: 07_IT_and_Digital/YAML_Logs/Donation_Log_2024.yaml
+  - 08 Archives & Legacy:
+      - Ritualized Scripts:
+          - PowerShell: 08_Archives_and_Legacy/Ritualized_Scripts/PowerShell/README.md
+          - Excel Templates: 08_Archives_and_Legacy/Ritualized_Scripts/Excel_Templates/README.md
+      - Multilingual Docs:
+          - Bengali: 08_Archives_and_Legacy/Multilingual_Documentation/README_bn.md
+          - Arabic: 08_Archives_and_Legacy/Multilingual_Documentation/README_ar.md

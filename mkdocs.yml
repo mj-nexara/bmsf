@@ -1,0 +1,45 @@
+site_name: B.M. Sabab Foundation
+site_description: Inheritable, audit-ready documentation for ethical governance
+site_author: MJ Ahmad
+repo_url: https://github.com/mj-nexara/bmsf
+docs_dir: docs
+
+nav:
+  - Home: index.md
+  - About: 
+      - Mission & Vision: 00_About/README.md
+  - Governance:
+      - Structure: 01_Governance/README.md
+  - Legal Compliance:
+      - National Laws: 02_Legal_Compliance/National_Laws/README.md
+      - International Laws: 02_Legal_Compliance/International_Laws/README.md
+  - Finance:
+      - Policy & Audit: 03_Finance/README.md
+  - HR & Volunteers:
+      - Staff & Contracts: 04_HR_and_Volunteers/Staff_Contracts/README.md
+      - Training: 04_HR_and_Volunteers/Training_Modules/README.md
+  - Programs & Operations:
+      - National: 05_Programs_and_Operations/National_Programs/README.md
+      - International: 05_Programs_and_Operations/International_Programs/README.md
+  - Monitoring & Evaluation: 06_Monitoring_and_Evaluation/README.md
+  - IT & Digital: 07_IT_and_Digital/README.md
+  - Archives & Legacy:
+      - Ritualized Scripts: 08_Archives_and_Legacy/Ritualized_Scripts/README.md
+      - Multilingual Docs: 08_Archives_and_Legacy/Multilingual_Documentation/README.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - toc
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
