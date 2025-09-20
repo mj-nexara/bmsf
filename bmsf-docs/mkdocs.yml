@@ -51,6 +51,7 @@ nav:
           - UN Human Rights: 02_Legal_Compliance/International_Laws/UN_Human_Rights_Framework.md
           - FATF Compliance: 02_Legal_Compliance/International_Laws/FATF_Compliance.md
   - 03 Finance:
+      - Finance: 03 Finance/README.md
       - Donation Sources:
           - Local Donors: 03_Finance/Donation_Sources/Local_Donors.yaml
           - Global Donors: 03_Finance/Donation_Sources/Global_Donors.yaml
