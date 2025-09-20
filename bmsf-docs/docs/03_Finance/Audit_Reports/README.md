@@ -1,4 +1,4 @@
-\# Audit Reports
+# Audit Reports
 
 
 
@@ -10,19 +10,19 @@ This folder contains internal and external audit documentation for B.M. Sabab Fo
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-Audit\_Reports/
+Audit_Reports/
 
-├── Internal\_Audit\_2024.pdf
+├── Internal_Audit_2024.pdf
 
-├── External\_Audit\_2025.pdf
+├── External_Audit_2025.pdf
 
-├── Donor\_Transparency\_Report.md
+├── Donor_Transparency_Report.md
 
 ├── README.md
 
@@ -30,29 +30,11 @@ Audit\_Reports/
 
 
 
-\- `Internal\_Audit\_2024.pdf`: Year-end review by Finance \& Legal Desk with YAML traceability
+- `Internal_Audit_2024.pdf`: Year-end review by Finance & Legal Desk with YAML traceability
 
-\- `External\_Audit\_2025.pdf`: Independent audit by registered firm with donor linkage and compliance findings
+- `External_Audit_2025.pdf`: Independent audit by registered firm with donor linkage and compliance findings
 
-\- `Donor\_Transparency\_Report.md`: Public-facing summary of donor contributions and disbursement impact
-
-
-
----
-
-
-
-\## 🧭 Audit Objectives
-
-
-
-\- Verify ethical use of donor funds
-
-\- Confirm documentation integrity across YAML logs, receipts, and program tags
-
-\- Ensure compliance with NGO Affairs Bureau and international humanitarian finance standards
-
-\- Identify gaps and recommend corrective actions for field-level reporting
+- `Donor_Transparency_Report.md`: Public-facing summary of donor contributions and disbursement impact
 
 
 
@@ -60,21 +42,17 @@ Audit\_Reports/
 
 
 
-\## 🔐 Compliance \& Review
+## 🧭 Audit Objectives
 
 
 
-\- All audits include cross-referencing with:
+- Verify ethical use of donor funds
 
-&nbsp; - `Monthly\_Expense\_Log.yaml`
+- Confirm documentation integrity across YAML logs, receipts, and program tags
 
-&nbsp; - `Local\_Donors.yaml` and `Global\_Donors.yaml`
+- Ensure compliance with NGO Affairs Bureau and international humanitarian finance standards
 
-&nbsp; - `Disbursement\_Policy/` and `Budget\_Tracking/`
-
-\- Audit trails are multilingual and inheritable
-
-\- Sensitive findings are reviewed by the Audit Committee before publication
+- Identify gaps and recommend corrective actions for field-level reporting
 
 
 
@@ -82,17 +60,21 @@ Audit\_Reports/
 
 
 
-\## 📚 Linked Documentation
+## 🔐 Compliance & Review
 
 
 
-\- Budget plans: `Budget\_Tracking/Annual\_Budget\_2025.xlsx`
+- All audits include cross-referencing with:
 
-\- Disbursement logs: `Budget\_Tracking/Monthly\_Expense\_Log.yaml`
+&nbsp; - `Monthly_Expense_Log.yaml`
 
-\- Field impact: `Field\_Reports/`
+&nbsp; - `Local_Donors.yaml` and `Global_Donors.yaml`
 
-\- Donor logs: `Donation\_Sources/`
+&nbsp; - `Disbursement_Policy/` and `Budget_Tracking/`
+
+- Audit trails are multilingual and inheritable
+
+- Sensitive findings are reviewed by the Audit Committee before publication
 
 
 
@@ -100,7 +82,25 @@ Audit\_Reports/
 
 
 
-\## 🕊️ Legacy Statement
+## 📚 Linked Documentation
+
+
+
+- Budget plans: `Budget_Tracking/Annual_Budget_2025.xlsx`
+
+- Disbursement logs: `Budget_Tracking/Monthly_Expense_Log.yaml`
+
+- Field impact: `Field_Reports/`
+
+- Donor logs: `Donation_Sources/`
+
+
+
+---
+
+
+
+## 🕊️ Legacy Statement
 
 
 

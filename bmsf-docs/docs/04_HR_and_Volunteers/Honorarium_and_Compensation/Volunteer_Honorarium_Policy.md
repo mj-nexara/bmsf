@@ -1,4 +1,4 @@
-\# Volunteer Honorarium Policy
+# Volunteer Honorarium Policy
 
 
 
@@ -10,7 +10,7 @@ This document outlines the ethical framework, eligibility criteria, and disburse
 
 
 
-\## 🧭 Purpose
+## 🧭 Purpose
 
 
 
@@ -18,13 +18,13 @@ Honorariums are offered to:
 
 
 
-\- Recognize the time, risk, and expertise of volunteers  
+- Recognize the time, risk, and expertise of volunteers  
 
-\- Support field deployment in high-need zones  
+- Support field deployment in high-need zones  
 
-\- Encourage trauma-informed, documentation-rich service  
+- Encourage trauma-informed, documentation-rich service  
 
-\- Maintain audit-ready records of all disbursements
+- Maintain audit-ready records of all disbursements
 
 
 
@@ -36,7 +36,7 @@ Honorariums are not salaries and do not constitute formal employment unless spec
 
 
 
-\## 🏞️ Zone-Based Honorarium Bands
+## 🏞️ Zone-Based Honorarium Bands
 
 
 
@@ -58,7 +58,7 @@ Honorariums are not salaries and do not constitute formal employment unless spec
 
 
 
-\## 📋 Eligibility Criteria
+## 📋 Eligibility Criteria
 
 
 
@@ -66,33 +66,15 @@ Volunteers must:
 
 
 
-\- Complete onboarding and sign a volunteer agreement  
+- Complete onboarding and sign a volunteer agreement  
 
-\- Be documented in `YAML\_Contract\_Log.yaml`  
+- Be documented in `YAML_Contract_Log.yaml`  
 
-\- Submit field logs or impact notes (written, voice, or photo)  
+- Submit field logs or impact notes (written, voice, or photo)  
 
-\- Receive confirmation from HR or Field Coordinator  
+- Receive confirmation from HR or Field Coordinator  
 
-\- Consent to public or anonymous acknowledgment
-
-
-
----
-
-
-
-\## 🔐 Disbursement Protocol
-
-
-
-\- Honorariums are disbursed via bank transfer, bKash, Nagad, or USDT  
-
-\- Each disbursement is logged in `Monthly\_Expense\_Log.yaml` with donor linkage  
-
-\- Disbursements above ৳15,000 require dual confirmation  
-
-\- Anonymous volunteers may receive honorarium if traceable and ethically vetted
+- Consent to public or anonymous acknowledgment
 
 
 
@@ -100,17 +82,17 @@ Volunteers must:
 
 
 
-\## 📚 Linked Documentation
+## 🔐 Disbursement Protocol
 
 
 
-\- Contracts: `Staff\_Contracts/Template\_Contract\_BD.docx`, `Gaza\_Field\_Staff\_Contract.docx`  
+- Honorariums are disbursed via bank transfer, bKash, Nagad, or USDT  
 
-\- Logs: `YAML\_Contract\_Log.yaml`, `Monthly\_Expense\_Log.yaml`  
+- Each disbursement is logged in `Monthly_Expense_Log.yaml` with donor linkage  
 
-\- Field Impact: `Field\_Reports/`  
+- Disbursements above ৳15,000 require dual confirmation  
 
-\- Donor Linkage: `Donation\_Sources/`
+- Anonymous volunteers may receive honorarium if traceable and ethically vetted
 
 
 
@@ -118,7 +100,25 @@ Volunteers must:
 
 
 
-\## 🕊️ Legacy Statement
+## 📚 Linked Documentation
+
+
+
+- Contracts: `Staff_Contracts/Template_Contract_BD.docx`, `Gaza_Field_Staff_Contract.docx`  
+
+- Logs: `YAML_Contract_Log.yaml`, `Monthly_Expense_Log.yaml`  
+
+- Field Impact: `Field_Reports/`  
+
+- Donor Linkage: `Donation_Sources/`
+
+
+
+---
+
+
+
+## 🕊️ Legacy Statement
 
 
 

@@ -1,4 +1,4 @@
-\# Rural Bangladesh Disbursement Policy
+# Rural Bangladesh Disbursement Policy
 
 
 
@@ -10,7 +10,7 @@ This document outlines the financial protocols, ethical safeguards, and audit-re
 
 
 
-\## 🏞️ Mission Context
+## 🏞️ Mission Context
 
 
 
@@ -18,11 +18,11 @@ B.M. Sabab Foundation operates in remote and underserved areas of Bangladesh, in
 
 
 
-\- Char regions, haor basins, and hill tracts
+- Char regions, haor basins, and hill tracts
 
-\- Flood-prone and climate-vulnerable zones
+- Flood-prone and climate-vulnerable zones
 
-\- Marginalized communities with limited access to legal aid, education, and healthcare
+- Marginalized communities with limited access to legal aid, education, and healthcare
 
 
 
@@ -30,13 +30,13 @@ Programs include:
 
 
 
-\- Legal aid and rights awareness
+- Legal aid and rights awareness
 
-\- Education and vocational training
+- Education and vocational training
 
-\- Health camps and trauma counseling
+- Health camps and trauma counseling
 
-\- Emergency relief and seasonal support
+- Emergency relief and seasonal support
 
 
 
@@ -44,7 +44,7 @@ Programs include:
 
 
 
-\## 💰 Disbursement Channels
+## 💰 Disbursement Channels
 
 
 
@@ -52,15 +52,15 @@ Funds are disbursed through:
 
 
 
-\- \*\*Local Field Teams\*\*: Verified staff and volunteers with deployment logs
+- **Local Field Teams**: Verified staff and volunteers with deployment logs
 
-\- \*\*Partner Organizations\*\*: NGOs and community groups with MoUs and compliance records
+- **Partner Organizations**: NGOs and community groups with MoUs and compliance records
 
-\- \*\*Direct Beneficiary Transfers\*\*: Mobile finance (bKash, Nagad) for stipends, scholarships, or aid
+- **Direct Beneficiary Transfers**: Mobile finance (bKash, Nagad) for stipends, scholarships, or aid
 
 
 
-Each disbursement is logged in `Monthly\_Expense\_Log.yaml` and linked to donor entries in `Local\_Donors.yaml`.
+Each disbursement is logged in `Monthly_Expense_Log.yaml` and linked to donor entries in `Local_Donors.yaml`.
 
 
 
@@ -68,7 +68,7 @@ Each disbursement is logged in `Monthly\_Expense\_Log.yaml` and linked to donor 
 
 
 
-\## 📋 Required Documentation
+## 📋 Required Documentation
 
 
 
@@ -76,15 +76,15 @@ Every disbursement must include:
 
 
 
-\- Program tag (e.g., "Education", "Flood Relief")
+- Program tag (e.g., "Education", "Flood Relief")
 
-\- Amount and currency
+- Amount and currency
 
-\- Recipient identity and location
+- Recipient identity and location
 
-\- Confirmation of receipt (digital or signed)
+- Confirmation of receipt (digital or signed)
 
-\- Timestamp and disbursement ID
+- Timestamp and disbursement ID
 
 
 
@@ -96,33 +96,17 @@ Optional attachments: field photos, beneficiary lists, signed MoUs
 
 
 
-\## 🔐 Compliance \& Safeguards
+## 🔐 Compliance & Safeguards
 
 
 
-\- All disbursements are reviewed by the \*\*Finance \& Field Operations Desk\*\*
+- All disbursements are reviewed by the **Finance & Field Operations Desk**
 
-\- Field teams must submit YAML-based deployment logs and signed receipts
+- Field teams must submit YAML-based deployment logs and signed receipts
 
-\- Disbursements above ৳25,000 require dual confirmation and audit tagging
+- Disbursements above ৳25,000 require dual confirmation and audit tagging
 
-\- Partner organizations must comply with NGO Affairs Bureau guidelines
-
-
-
----
-
-
-
-\## 📊 Audit \& Transparency
-
-
-
-\- Monthly summaries are published in donor transparency reports
-
-\- YAML logs include donor linkage, purpose, and confirmation status
-
-\- Field reports archived in `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/`
+- Partner organizations must comply with NGO Affairs Bureau guidelines
 
 
 
@@ -130,7 +114,23 @@ Optional attachments: field photos, beneficiary lists, signed MoUs
 
 
 
-\## 🛡️ Ethical Boundaries
+## 📊 Audit & Transparency
+
+
+
+- Monthly summaries are published in donor transparency reports
+
+- YAML logs include donor linkage, purpose, and confirmation status
+
+- Field reports archived in `docs/06_Monitoring_and_Evaluation/Field_Reports/`
+
+
+
+---
+
+
+
+## 🛡️ Ethical Boundaries
 
 
 
@@ -138,11 +138,11 @@ We do not disburse funds to:
 
 
 
-\- Politically affiliated or unregistered entities
+- Politically affiliated or unregistered entities
 
-\- Individuals or groups unwilling to comply with documentation protocols
+- Individuals or groups unwilling to comply with documentation protocols
 
-\- Programs lacking community consent or ethical alignment
+- Programs lacking community consent or ethical alignment
 
 
 
@@ -150,15 +150,15 @@ We do not disburse funds to:
 
 
 
-\## 📬 Contact for Rural Program Coordination
+## 📬 Contact for Rural Program Coordination
 
 
 
-\*\*Field Finance Desk\*\*  
+**Field Finance Desk**  
 
 📧 rural-programs@bmsf.org.bd  
 
-🌐 \[www.bmsf.org.bd/rural](http://www.bmsf.org.bd/rural)  
+🌐 [www.bmsf.org.bd/rural](http://www.bmsf.org.bd/rural)  
 
 📞 +880-XXX-XXXXXXX
 
@@ -168,7 +168,7 @@ We do not disburse funds to:
 
 
 
-\_This document is part of B.M. Sabab Foundation’s inheritable finance archive. Every disbursement is a legacy of shared dignity and rural empowerment.\_
+_This document is part of B.M. Sabab Foundation’s inheritable finance archive. Every disbursement is a legacy of shared dignity and rural empowerment._
 
 
 

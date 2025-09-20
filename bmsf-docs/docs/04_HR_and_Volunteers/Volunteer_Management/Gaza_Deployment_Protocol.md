@@ -1,4 +1,4 @@
-\# Gaza Deployment Protocol
+# Gaza Deployment Protocol
 
 
 
@@ -10,7 +10,7 @@ This document outlines the ethical, logistical, and documentation procedures for
 
 
 
-\## 🕊️ Mission Context
+## 🕊️ Mission Context
 
 
 
@@ -18,13 +18,13 @@ Gaza deployments support:
 
 
 
-\- Emergency medical relief  
+- Emergency medical relief  
 
-\- Trauma counseling and psychosocial support  
+- Trauma counseling and psychosocial support  
 
-\- Shelter logistics and food distribution  
+- Shelter logistics and food distribution  
 
-\- Documentation and multilingual field reporting
+- Documentation and multilingual field reporting
 
 
 
@@ -36,7 +36,7 @@ All deployments are coordinated with verified local partners and humanitarian ne
 
 
 
-\## 📋 Pre-Deployment Checklist
+## 📋 Pre-Deployment Checklist
 
 
 
@@ -44,15 +44,15 @@ Each Gaza-bound staff or volunteer must:
 
 
 
-\- Submit humanitarian credentials and passport copy  
+- Submit humanitarian credentials and passport copy  
 
-\- Complete trauma-informed orientation (remote or in-person)  
+- Complete trauma-informed orientation (remote or in-person)  
 
-\- Sign `Gaza\_Field\_Staff\_Contract.docx`  
+- Sign `Gaza_Field_Staff_Contract.docx`  
 
-\- Receive deployment tag and YAML log entry  
+- Receive deployment tag and YAML log entry  
 
-\- Confirm risk consent and emergency contact details
+- Confirm risk consent and emergency contact details
 
 
 
@@ -60,7 +60,7 @@ Each Gaza-bound staff or volunteer must:
 
 
 
-\## 🛡️ Code of Conduct
+## 🛡️ Code of Conduct
 
 
 
@@ -68,15 +68,15 @@ Deployed personnel must:
 
 
 
-\- Uphold humanitarian neutrality and nonviolence  
+- Uphold humanitarian neutrality and nonviolence  
 
-\- Respect trauma survivors and community dignity  
+- Respect trauma survivors and community dignity  
 
-\- Avoid political, religious, or commercial promotion  
+- Avoid political, religious, or commercial promotion  
 
-\- Maintain strict confidentiality of beneficiary data  
+- Maintain strict confidentiality of beneficiary data  
 
-\- Report misconduct or safety concerns immediately
+- Report misconduct or safety concerns immediately
 
 
 
@@ -84,7 +84,7 @@ Deployed personnel must:
 
 
 
-\## 🧭 Deployment Zones
+## 🧭 Deployment Zones
 
 
 
@@ -92,15 +92,15 @@ Personnel may be assigned to:
 
 
 
-\- Gaza City (trauma support, documentation)  
+- Gaza City (trauma support, documentation)  
 
-\- Northern Gaza (logistics, shelter coordination)  
+- Northern Gaza (logistics, shelter coordination)  
 
-\- Partner NGO sites (medical aid, psychosocial care)
+- Partner NGO sites (medical aid, psychosocial care)
 
 
 
-Each zone is tagged in the YAML contract log and linked to program entries in `Disbursement\_Policy/Gaza\_Relief\_Disbursement.md`.
+Each zone is tagged in the YAML contract log and linked to program entries in `Disbursement_Policy/Gaza_Relief_Disbursement.md`.
 
 
 
@@ -108,7 +108,7 @@ Each zone is tagged in the YAML contract log and linked to program entries in `D
 
 
 
-\## 📚 Documentation Rituals
+## 📚 Documentation Rituals
 
 
 
@@ -116,13 +116,13 @@ Deployed staff are expected to:
 
 
 
-\- Maintain encrypted daily logs (written or voice)  
+- Maintain encrypted daily logs (written or voice)  
 
-\- Submit field photos and impact notes (with consent)  
+- Submit field photos and impact notes (with consent)  
 
-\- Contribute to multilingual README anchors  
+- Contribute to multilingual README anchors  
 
-\- Archive trauma-informed reflections (optional, with consent)
+- Archive trauma-informed reflections (optional, with consent)
 
 
 
@@ -130,7 +130,7 @@ Deployed staff are expected to:
 
 
 
-\## 🔐 Post-Deployment Protocol
+## 🔐 Post-Deployment Protocol
 
 
 
@@ -138,13 +138,13 @@ Upon return or contract completion:
 
 
 
-\- Submit final field report and YAML confirmation  
+- Submit final field report and YAML confirmation  
 
-\- Participate in trauma debriefing (remote or in-person)  
+- Participate in trauma debriefing (remote or in-person)  
 
-\- Receive certificate of service and legacy testimonial option  
+- Receive certificate of service and legacy testimonial option  
 
-\- Exit checklist archived in `Staff\_Contracts/YAML\_Contract\_Log.yaml`
+- Exit checklist archived in `Staff_Contracts/YAML_Contract_Log.yaml`
 
 
 
@@ -152,15 +152,15 @@ Upon return or contract completion:
 
 
 
-\## 📬 Contact for Gaza Deployment
+## 📬 Contact for Gaza Deployment
 
 
 
-\*\*Humanitarian HR Desk\*\*  
+**Humanitarian HR Desk**  
 
 📧 gaza-deployment@bmsf.org.bd  
 
-🌐 \[www.bmsf.org.bd/gaza-deploy](http://www.bmsf.org.bd/gaza-deploy)  
+🌐 [www.bmsf.org.bd/gaza-deploy](http://www.bmsf.org.bd/gaza-deploy)  
 
 📞 +880-XXX-XXXXXXX
 
@@ -170,7 +170,7 @@ Upon return or contract completion:
 
 
 
-\_Every deployment is a legacy of solidarity. In Gaza, your presence becomes part of our ethical archive — inherited by future guardians.\_
+_Every deployment is a legacy of solidarity. In Gaza, your presence becomes part of our ethical archive — inherited by future guardians._
 
 
 

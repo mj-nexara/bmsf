@@ -1,4 +1,4 @@
-\# Humanitarian Ethics Guide
+# Humanitarian Ethics Guide
 
 
 
@@ -10,19 +10,19 @@ This guide outlines the ethical principles, behavioral expectations, and trauma-
 
 
 
-\## 🧭 Core Ethical Principles
+## 🧭 Core Ethical Principles
 
 
 
-\- \*\*Human Dignity\*\*: Every beneficiary, donor, and team member is treated with respect, regardless of background or circumstance  
+- **Human Dignity**: Every beneficiary, donor, and team member is treated with respect, regardless of background or circumstance  
 
-\- \*\*Neutrality\*\*: No political, religious, or ideological bias may influence humanitarian service  
+- **Neutrality**: No political, religious, or ideological bias may influence humanitarian service  
 
-\- \*\*Transparency\*\*: All actions must be documented, traceable, and audit-ready  
+- **Transparency**: All actions must be documented, traceable, and audit-ready  
 
-\- \*\*Trauma-Informed Care\*\*: Engagements must be sensitive to psychological wounds and community grief  
+- **Trauma-Informed Care**: Engagements must be sensitive to psychological wounds and community grief  
 
-\- \*\*Consent \& Confidentiality\*\*: No data, image, or testimony may be shared without informed consent
+- **Consent & Confidentiality**: No data, image, or testimony may be shared without informed consent
 
 
 
@@ -30,7 +30,7 @@ This guide outlines the ethical principles, behavioral expectations, and trauma-
 
 
 
-\## 🛡️ Behavioral Expectations
+## 🛡️ Behavioral Expectations
 
 
 
@@ -38,15 +38,15 @@ All personnel must:
 
 
 
-\- Avoid discrimination, favoritism, or exploitation  
+- Avoid discrimination, favoritism, or exploitation  
 
-\- Refrain from political or religious promotion during duty  
+- Refrain from political or religious promotion during duty  
 
-\- Maintain confidentiality of beneficiary and donor data  
+- Maintain confidentiality of beneficiary and donor data  
 
-\- Report misconduct, abuse, or ethical breaches immediately  
+- Report misconduct, abuse, or ethical breaches immediately  
 
-\- Uphold multilingual respect in documentation and field engagement
+- Uphold multilingual respect in documentation and field engagement
 
 
 
@@ -54,7 +54,7 @@ All personnel must:
 
 
 
-\## 🏞️ Field-Specific Ethics
+## 🏞️ Field-Specific Ethics
 
 
 
@@ -74,19 +74,19 @@ All personnel must:
 
 
 
-\## 📚 Linked Documentation
+## 📚 Linked Documentation
 
 
 
-\- Onboarding Manual: `Training\_and\_Ethics/Onboarding\_Manual.md`  
+- Onboarding Manual: `Training_and_Ethics/Onboarding_Manual.md`  
 
-\- Field Conduct Guide: `Training\_and\_Ethics/Field\_Conduct\_Guide.md`  
+- Field Conduct Guide: `Training_and_Ethics/Field_Conduct_Guide.md`  
 
-\- Contracts: `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
+- Contracts: `Staff_Contracts/YAML_Contract_Log.yaml`  
 
-\- Deployment Protocols: `Volunteer\_Management/Gaza\_Deployment\_Protocol.md`  
+- Deployment Protocols: `Volunteer_Management/Gaza_Deployment_Protocol.md`  
 
-\- Legacy Anchors: `docs/00\_Legacy\_Anchors/`
+- Legacy Anchors: `docs/00_Legacy_Anchors/`
 
 
 
@@ -94,7 +94,7 @@ All personnel must:
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

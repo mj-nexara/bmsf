@@ -1,4 +1,4 @@
-\# Gaza Relief Disbursement Policy
+# Gaza Relief Disbursement Policy
 
 
 
@@ -10,7 +10,7 @@ This document outlines the ethical, financial, and operational framework for dis
 
 
 
-\## 🕊️ Mission Context
+## 🕊️ Mission Context
 
 
 
@@ -18,13 +18,13 @@ B.M. Sabab Foundation is actively engaged in trauma-informed, dignity-centered r
 
 
 
-\- Emergency medical aid
+- Emergency medical aid
 
-\- Shelter and food distribution
+- Shelter and food distribution
 
-\- Trauma counseling and psychosocial support
+- Trauma counseling and psychosocial support
 
-\- Volunteer deployment and field logistics
+- Volunteer deployment and field logistics
 
 
 
@@ -36,7 +36,7 @@ All disbursements are documented, confirmed, and inherited through multilingual 
 
 
 
-\## 💰 Disbursement Channels
+## 💰 Disbursement Channels
 
 
 
@@ -44,15 +44,15 @@ Funds allocated to Gaza are disbursed through:
 
 
 
-\- \*\*Verified Local Partners\*\*: NGOs and field teams with legal registration and humanitarian credentials
+- **Verified Local Partners**: NGOs and field teams with legal registration and humanitarian credentials
 
-\- \*\*International Relief Networks\*\*: UN-affiliated or Red Crescent-supported entities
+- **International Relief Networks**: UN-affiliated or Red Crescent-supported entities
 
-\- \*\*Direct Aid Transfers\*\*: Mobile finance or crypto (USDT) to vetted field operatives
+- **Direct Aid Transfers**: Mobile finance or crypto (USDT) to vetted field operatives
 
 
 
-Each transaction is logged in `Monthly\_Expense\_Log.yaml` and linked to donor entries in `Global\_Donors.yaml`.
+Each transaction is logged in `Monthly_Expense_Log.yaml` and linked to donor entries in `Global_Donors.yaml`.
 
 
 
@@ -60,7 +60,7 @@ Each transaction is logged in `Monthly\_Expense\_Log.yaml` and linked to donor e
 
 
 
-\## 📋 Required Documentation
+## 📋 Required Documentation
 
 
 
@@ -68,15 +68,15 @@ Every disbursement must include:
 
 
 
-\- Purpose tag (e.g., "Medical Kits", "Trauma Counseling")
+- Purpose tag (e.g., "Medical Kits", "Trauma Counseling")
 
-\- Amount and currency
+- Amount and currency
 
-\- Recipient identity and credentials
+- Recipient identity and credentials
 
-\- Confirmation of receipt (digital or signed)
+- Confirmation of receipt (digital or signed)
 
-\- Timestamp and disbursement ID
+- Timestamp and disbursement ID
 
 
 
@@ -88,33 +88,17 @@ Optional attachments: field photos, signed MoUs, impact reports
 
 
 
-\## 🔐 Compliance \& Safeguards
+## 🔐 Compliance & Safeguards
 
 
 
-\- All Gaza disbursements are reviewed by the \*\*Finance \& Legal Desk\*\*
+- All Gaza disbursements are reviewed by the **Finance & Legal Desk**
 
-\- Partners must comply with international humanitarian law and anti-terror financing regulations
+- Partners must comply with international humanitarian law and anti-terror financing regulations
 
-\- Disbursements above $1,000 USD require dual confirmation and YAML logging
+- Disbursements above $1,000 USD require dual confirmation and YAML logging
 
-\- Anonymous field operatives are permitted only under verified humanitarian cover
-
-
-
----
-
-
-
-\## 📊 Audit \& Transparency
-
-
-
-\- Monthly disbursement summaries are published in donor transparency reports
-
-\- YAML logs include donor linkage, purpose, and confirmation status
-
-\- Field reports are archived in `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/Gaza\_2025.md`
+- Anonymous field operatives are permitted only under verified humanitarian cover
 
 
 
@@ -122,7 +106,23 @@ Optional attachments: field photos, signed MoUs, impact reports
 
 
 
-\## 🛡️ Ethical Boundaries
+## 📊 Audit & Transparency
+
+
+
+- Monthly disbursement summaries are published in donor transparency reports
+
+- YAML logs include donor linkage, purpose, and confirmation status
+
+- Field reports are archived in `docs/06_Monitoring_and_Evaluation/Field_Reports/Gaza_2025.md`
+
+
+
+---
+
+
+
+## 🛡️ Ethical Boundaries
 
 
 
@@ -130,11 +130,11 @@ We do not disburse funds to:
 
 
 
-\- Entities lacking humanitarian credentials
+- Entities lacking humanitarian credentials
 
-\- Politically affiliated or armed groups
+- Politically affiliated or armed groups
 
-\- Partners unwilling to comply with audit and documentation protocols
+- Partners unwilling to comply with audit and documentation protocols
 
 
 
@@ -142,15 +142,15 @@ We do not disburse funds to:
 
 
 
-\## 📬 Contact for Gaza Relief Coordination
+## 📬 Contact for Gaza Relief Coordination
 
 
 
-\*\*Humanitarian Finance Desk\*\*  
+**Humanitarian Finance Desk**  
 
 📧 gaza-relief@bmsf.org.bd  
 
-🌐 \[www.bmsf.org.bd/gaza](http://www.bmsf.org.bd/gaza)  
+🌐 [www.bmsf.org.bd/gaza](http://www.bmsf.org.bd/gaza)  
 
 📞 +880-XXX-XXXXXXX
 
@@ -160,7 +160,7 @@ We do not disburse funds to:
 
 
 
-\_This document is part of B.M. Sabab Foundation’s inheritable finance archive. Every disbursement is a legacy of shared dignity and global solidarity.\_
+_This document is part of B.M. Sabab Foundation’s inheritable finance archive. Every disbursement is a legacy of shared dignity and global solidarity._
 
 
 

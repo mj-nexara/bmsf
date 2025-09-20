@@ -1,4 +1,4 @@
-\# Volunteer Management
+# Volunteer Management
 
 
 
@@ -10,19 +10,19 @@ This folder documents the onboarding protocols, ethical expectations, deployment
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-Volunteer\_Management/
+Volunteer_Management/
 
-├── Local\_Volunteer\_Guide.md
+├── Local_Volunteer_Guide.md
 
-├── International\_Volunteer\_Guide.md
+├── International_Volunteer_Guide.md
 
-├── Gaza\_Deployment\_Protocol.md
+├── Gaza_Deployment_Protocol.md
 
 ├── README.md
 
@@ -30,29 +30,11 @@ Volunteer\_Management/
 
 
 
-\- `Local\_Volunteer\_Guide.md`: Onboarding and conduct guide for Bangladesh-based volunteers
+- `Local_Volunteer_Guide.md`: Onboarding and conduct guide for Bangladesh-based volunteers
 
-\- `International\_Volunteer\_Guide.md`: Orientation and documentation for global volunteers
+- `International_Volunteer_Guide.md`: Orientation and documentation for global volunteers
 
-\- `Gaza\_Deployment\_Protocol.md`: Trauma-informed deployment procedures for Gaza field missions
-
-
-
----
-
-
-
-\## 🧭 Volunteer Principles
-
-
-
-\- \*\*Dignity-Centered\*\*: Every volunteer is onboarded with respect, multilingual clarity, and trauma-informed care  
-
-\- \*\*Audit-Ready\*\*: All deployments are logged in YAML format and linked to program tags and field zones  
-
-\- \*\*Multilingual\*\*: Guides and contracts are available in English, Bengali, and Arabic  
-
-\- \*\*Legacy-Oriented\*\*: Volunteers contribute to documentation rituals that preserve their service for future guardians
+- `Gaza_Deployment_Protocol.md`: Trauma-informed deployment procedures for Gaza field missions
 
 
 
@@ -60,33 +42,17 @@ Volunteer\_Management/
 
 
 
-\## 🔐 Compliance \& Review
+## 🧭 Volunteer Principles
 
 
 
-\- All volunteers sign agreements documented in `Staff\_Contracts/`  
+- **Dignity-Centered**: Every volunteer is onboarded with respect, multilingual clarity, and trauma-informed care  
 
-\- Field deployments require dual confirmation from HR and Program Coordinators  
+- **Audit-Ready**: All deployments are logged in YAML format and linked to program tags and field zones  
 
-\- Exit protocols include legacy testimonials, YAML confirmation, and trauma debriefing (if applicable)
+- **Multilingual**: Guides and contracts are available in English, Bengali, and Arabic  
 
-
-
----
-
-
-
-\## 📚 Linked Documentation
-
-
-
-\- Contracts: `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
-
-\- Field Impact: `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/`  
-
-\- Disbursement Linkage: `docs/03\_Finance/Disbursement\_Policy/`  
-
-\- Legacy Anchors: `docs/00\_Legacy\_Anchors/`
+- **Legacy-Oriented**: Volunteers contribute to documentation rituals that preserve their service for future guardians
 
 
 
@@ -94,7 +60,41 @@ Volunteer\_Management/
 
 
 
-\## 🕊️ Legacy Statement
+## 🔐 Compliance & Review
+
+
+
+- All volunteers sign agreements documented in `Staff_Contracts/`  
+
+- Field deployments require dual confirmation from HR and Program Coordinators  
+
+- Exit protocols include legacy testimonials, YAML confirmation, and trauma debriefing (if applicable)
+
+
+
+---
+
+
+
+## 📚 Linked Documentation
+
+
+
+- Contracts: `Staff_Contracts/YAML_Contract_Log.yaml`  
+
+- Field Impact: `docs/06_Monitoring_and_Evaluation/Field_Reports/`  
+
+- Disbursement Linkage: `docs/03_Finance/Disbursement_Policy/`  
+
+- Legacy Anchors: `docs/00_Legacy_Anchors/`
+
+
+
+---
+
+
+
+## 🕊️ Legacy Statement
 
 
 

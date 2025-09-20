@@ -51,7 +51,7 @@ nav:
           - UN Human Rights: 02_Legal_Compliance/International_Laws/UN_Human_Rights_Framework.md
           - FATF Compliance: 02_Legal_Compliance/International_Laws/FATF_Compliance.md
   - 03 Finance:
-      - Finance: 03 Finance/README.md
+      - Finance: 03_Finance/README.md
       - Donation Sources:
           - Local Donors: 03_Finance/Donation_Sources/Local_Donors.yaml
           - Global Donors: 03_Finance/Donation_Sources/Global_Donors.yaml
@@ -68,6 +68,7 @@ nav:
           - Internal Audit: 03_Finance/Audit_Reports/Internal_Audit_2024.pdf
           - Donor Transparency: 03_Finance/Audit_Reports/Donor_Transparency_Report.md
   - 04 HR & Volunteers:
+      - HR & Volunteers: 04_HR_and_Volunteers/README.md
       - Staff Contracts:
           - BD Template: 04_HR_and_Volunteers/Staff_Contracts/Template_Contract_BD.docx
           - Gaza Field Staff: 04_HR_and_Volunteers/Staff_Contracts/Gaza_Field_Staff_Contract.docx

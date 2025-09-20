@@ -1,4 +1,4 @@
-\# Training \& Ethics
+# Training & Ethics
 
 
 
@@ -10,19 +10,19 @@ This folder documents the onboarding rituals, field conduct protocols, trauma se
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-Training\_and\_Ethics/
+Training_and_Ethics/
 
-├── Onboarding\_Manual.md
+├── Onboarding_Manual.md
 
-├── Humanitarian\_Ethics\_Guide.md
+├── Humanitarian_Ethics_Guide.md
 
-├── Trauma\_Sensitivity\_Training.md
+├── Trauma_Sensitivity_Training.md
 
 ├── README.md
 
@@ -30,29 +30,11 @@ Training\_and\_Ethics/
 
 
 
-\- `Onboarding\_Manual.md`: Step-by-step guide for staff and volunteer induction, with multilingual and audit-ready rituals  
+- `Onboarding_Manual.md`: Step-by-step guide for staff and volunteer induction, with multilingual and audit-ready rituals  
 
-\- `Humanitarian\_Ethics\_Guide.md`: Core ethical principles and behavioral expectations for all humanitarian zones  
+- `Humanitarian_Ethics_Guide.md`: Core ethical principles and behavioral expectations for all humanitarian zones  
 
-\- `Trauma\_Sensitivity\_Training.md`: Field-ready manual for engaging trauma-affected communities with care and restraint
-
-
-
----
-
-
-
-\## 🧭 Training Principles
-
-
-
-\- \*\*Trauma-Informed\*\*: Every engagement is shaped by psychological awareness and emotional safety  
-
-\- \*\*Multilingual\*\*: All training materials are available in Bengali, English, and Arabic  
-
-\- \*\*Audit-Ready\*\*: Onboarding and ethics confirmations are logged in YAML and linked to contract IDs  
-
-\- \*\*Legacy-Oriented\*\*: Training reflections and testimonials may be archived with consent in `docs/00\_Legacy\_Anchors/`
+- `Trauma_Sensitivity_Training.md`: Field-ready manual for engaging trauma-affected communities with care and restraint
 
 
 
@@ -60,11 +42,29 @@ Training\_and\_Ethics/
 
 
 
-\## 🔐 Compliance \& Review
+## 🧭 Training Principles
 
 
 
-\- All training modules are reviewed by:
+- **Trauma-Informed**: Every engagement is shaped by psychological awareness and emotional safety  
+
+- **Multilingual**: All training materials are available in Bengali, English, and Arabic  
+
+- **Audit-Ready**: Onboarding and ethics confirmations are logged in YAML and linked to contract IDs  
+
+- **Legacy-Oriented**: Training reflections and testimonials may be archived with consent in `docs/00_Legacy_Anchors/`
+
+
+
+---
+
+
+
+## 🔐 Compliance & Review
+
+
+
+- All training modules are reviewed by:
 
 &nbsp; - HR \& Volunteer Coordination Desk  
 
@@ -72,7 +72,7 @@ Training\_and\_Ethics/
 
 &nbsp; - Gaza Deployment Committee (for trauma zones)  
 
-\- Ethics violations trigger mandatory debriefing and documentation review
+- Ethics violations trigger mandatory debriefing and documentation review
 
 
 
@@ -80,17 +80,17 @@ Training\_and\_Ethics/
 
 
 
-\## 📚 Linked Documentation
+## 📚 Linked Documentation
 
 
 
-\- Contracts: `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
+- Contracts: `Staff_Contracts/YAML_Contract_Log.yaml`  
 
-\- Deployment Protocols: `Volunteer\_Management/Gaza\_Deployment\_Protocol.md`  
+- Deployment Protocols: `Volunteer_Management/Gaza_Deployment_Protocol.md`  
 
-\- Honorarium Policy: `Honorarium\_and\_Compensation/Volunteer\_Honorarium\_Policy.md`  
+- Honorarium Policy: `Honorarium_and_Compensation/Volunteer_Honorarium_Policy.md`  
 
-\- Field Reports: `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/`
+- Field Reports: `docs/06_Monitoring_and_Evaluation/Field_Reports/`
 
 
 
@@ -98,7 +98,7 @@ Training\_and\_Ethics/
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

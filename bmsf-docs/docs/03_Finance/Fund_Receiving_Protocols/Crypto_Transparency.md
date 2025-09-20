@@ -1,8 +1,8 @@
-\# Cryptocurrency Donation Protocol
+# Cryptocurrency Donation Protocol
 
 
 
-This document outlines the ethical, legal, and technical framework for receiving donations via \*\*cryptocurrency\*\*, ensuring full transparency, traceability, and compliance with national and international financial regulations.
+This document outlines the ethical, legal, and technical framework for receiving donations via **cryptocurrency**, ensuring full transparency, traceability, and compliance with national and international financial regulations.
 
 
 
@@ -10,7 +10,7 @@ This document outlines the ethical, legal, and technical framework for receiving
 
 
 
-\## 🌐 Accepted Cryptocurrencies
+## 🌐 Accepted Cryptocurrencies
 
 
 
@@ -18,13 +18,13 @@ B.M. Sabab Foundation currently accepts crypto donations in:
 
 
 
-\- \*\*USDT (Tether)\*\* — ERC-20 and TRC-20 networks
+- **USDT (Tether)** — ERC-20 and TRC-20 networks
 
-\- \*\*BTC (Bitcoin)\*\* — SegWit-compatible wallets
+- **BTC (Bitcoin)** — SegWit-compatible wallets
 
-\- \*\*ETH (Ethereum)\*\* — ERC-20 standard
+- **ETH (Ethereum)** — ERC-20 standard
 
-\- \*\*Other tokens\*\* — Upon donor request and compliance vetting
+- **Other tokens** — Upon donor request and compliance vetting
 
 
 
@@ -36,7 +36,7 @@ All wallets are managed with multi-signature security and cold storage protocols
 
 
 
-\## 🧾 Required Donor Information
+## 🧾 Required Donor Information
 
 
 
@@ -44,35 +44,17 @@ To ensure ethical traceability, donors must provide:
 
 
 
-\- Full name or organization name
+- Full name or organization name
 
-\- Country of origin
+- Country of origin
 
-\- Purpose of donation (e.g., Gaza Relief, Volunteer Training)
+- Purpose of donation (e.g., Gaza Relief, Volunteer Training)
 
-\- Token type and amount
+- Token type and amount
 
-\- Transaction hash (TXID)
+- Transaction hash (TXID)
 
-\- Consent for public acknowledgment (optional)
-
-
-
----
-
-
-
-\## 🔐 Compliance \& Safeguards
-
-
-
-\- All crypto donations are vetted by the \*\*Finance \& Legal Desk\*\*
-
-\- Donations above $500 USD equivalent require enhanced KYC verification
-
-\- Anonymous donations are accepted only if traceable via blockchain and ethically vetted
-
-\- Wallet addresses are rotated quarterly and documented in YAML logs
+- Consent for public acknowledgment (optional)
 
 
 
@@ -80,7 +62,25 @@ To ensure ethical traceability, donors must provide:
 
 
 
-\## 📊 Logging \& Documentation
+## 🔐 Compliance \& Safeguards
+
+
+
+- All crypto donations are vetted by the **Finance & Legal Desk**
+
+- Donations above $500 USD equivalent require enhanced KYC verification
+
+- Anonymous donations are accepted only if traceable via blockchain and ethically vetted
+
+- Wallet addresses are rotated quarterly and documented in YAML logs
+
+
+
+---
+
+
+
+## 📊 Logging & Documentation
 
 
 
@@ -88,11 +88,11 @@ Each confirmed crypto donation is:
 
 
 
-\- Logged in `Global\_Donors.yaml` with donor ID and TXID
+- Logged in `Global_Donors.yaml` with donor ID and TXID
 
-\- Linked to disbursement entries in `Budget\_Tracking/Monthly\_Expense\_Log.yaml`
+- Linked to disbursement entries in `Budget_Tracking/Monthly_Expense_Log.yaml`
 
-\- Included in quarterly donor transparency reports
+- Included in quarterly donor transparency reports
 
 
 
@@ -100,7 +100,7 @@ Each confirmed crypto donation is:
 
 
 
-\## 🛡️ Ethical Notes
+## 🛡️ Ethical Notes
 
 
 
@@ -108,11 +108,11 @@ We do not accept crypto donations from:
 
 
 
-\- Unverified wallets linked to illicit activity
+- Unverified wallets linked to illicit activity
 
-\- Exchanges or platforms under international sanctions
+- Exchanges or platforms under international sanctions
 
-\- Tokens associated with exploitative or non-transparent ecosystems
+- Tokens associated with exploitative or non-transparent ecosystems
 
 
 
@@ -120,7 +120,7 @@ We do not accept crypto donations from:
 
 
 
-\## 📬 Donation Instructions
+## 📬 Donation Instructions
 
 
 
@@ -128,13 +128,13 @@ To donate via cryptocurrency:
 
 
 
-1\. Request the current wallet address by emailing \*\*crypto@bmsf.org.bd\*\*
+1. Request the current wallet address by emailing **crypto@bmsf.org.bd**
 
-2\. Send your contribution and retain the transaction hash
+2. Send your contribution and retain the transaction hash
 
-3\. Submit donor details and TXID for confirmation
+3. Submit donor details and TXID for confirmation
 
-4\. Receive YAML log entry and digital acknowledgment within 48 hours
+4. Receive YAML log entry and digital acknowledgment within 48 hours
 
 
 
@@ -142,7 +142,7 @@ To donate via cryptocurrency:
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

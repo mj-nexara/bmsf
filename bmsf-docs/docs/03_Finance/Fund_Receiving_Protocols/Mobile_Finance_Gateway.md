@@ -1,8 +1,8 @@
-\# Mobile Finance Gateway Protocol
+# Mobile Finance Gateway Protocol
 
 
 
-This document outlines the procedures and safeguards for receiving donations via \*\*mobile financial services (MFS)\*\* such as \*\*bKash\*\*, \*\*Nagad\*\*, \*\*Rocket\*\*, and other approved platforms. These gateways enable secure, accessible, and traceable contributions from both local and international donors.
+This document outlines the procedures and safeguards for receiving donations via **mobile financial services (MFS)** such as **bKash**, **Nagad**, **Rocket**, and other approved platforms. These gateways enable secure, accessible, and traceable contributions from both local and international donors.
 
 
 
@@ -10,7 +10,7 @@ This document outlines the procedures and safeguards for receiving donations via
 
 
 
-\## 📱 Accepted Platforms
+## 📱 Accepted Platforms
 
 
 
@@ -18,13 +18,13 @@ B.M. Sabab Foundation currently accepts mobile donations through:
 
 
 
-\- \*\*bKash (Bangladesh)\*\* — Personal and merchant accounts
+- **bKash (Bangladesh)** — Personal and merchant accounts
 
-\- \*\*Nagad (Bangladesh)\*\* — Government-backed platform
+- **Nagad (Bangladesh)** — Government-backed platform
 
-\- \*\*Rocket (DBBL)\*\* — Bank-integrated MFS
+- **Rocket (DBBL)** — Bank-integrated MFS
 
-\- \*\*International Gateways\*\* — PayPal, Wise, and other region-specific apps (upon donor request and compliance vetting)
+- **International Gateways** — PayPal, Wise, and other region-specific apps (upon donor request and compliance vetting)
 
 
 
@@ -32,7 +32,7 @@ B.M. Sabab Foundation currently accepts mobile donations through:
 
 
 
-\## 🧾 Required Donor Information
+## 🧾 Required Donor Information
 
 
 
@@ -40,35 +40,17 @@ To ensure ethical traceability, donors must provide:
 
 
 
-\- Full name or organization name
+- Full name or organization name
 
-\- District or country of origin
+- District or country of origin
 
-\- Purpose of donation (e.g., Gaza Relief, Rural Education)
+- Purpose of donation (e.g., Gaza Relief, Rural Education)
 
-\- Amount and currency
+- Amount and currency
 
-\- Transaction ID or screenshot
+- Transaction ID or screenshot
 
-\- Consent for public acknowledgment (optional)
-
-
-
----
-
-
-
-\## 🔐 Compliance \& Safeguards
-
-
-
-\- All MFS donations are verified by the \*\*Finance \& Compliance Desk\*\*
-
-\- Donors contributing above ৳25,000 or $300 USD are flagged for enhanced verification
-
-\- Anonymous donations are accepted only if traceable and ethically vetted
-
-\- Monthly reconciliation logs are maintained in `Budget\_Tracking/Monthly\_Expense\_Log.yaml`
+- Consent for public acknowledgment (optional)
 
 
 
@@ -76,7 +58,25 @@ To ensure ethical traceability, donors must provide:
 
 
 
-\## 📊 Logging \& Documentation
+## 🔐 Compliance & Safeguards
+
+
+
+- All MFS donations are verified by the **Finance & Compliance Desk**
+
+- Donors contributing above ৳25,000 or $300 USD are flagged for enhanced verification
+
+- Anonymous donations are accepted only if traceable and ethically vetted
+
+- Monthly reconciliation logs are maintained in `Budget_Tracking/Monthly_Expense_Log.yaml`
+
+
+
+---
+
+
+
+## 📊 Logging & Documentation
 
 
 
@@ -84,11 +84,11 @@ Each confirmed mobile donation is:
 
 
 
-\- Logged in `Local\_Donors.yaml` or `Global\_Donors.yaml` with donor ID and timestamp
+- Logged in `Local_Donors.yaml` or `Global_Donors.yaml` with donor ID and timestamp
 
-\- Linked to disbursement entries in `Disbursement\_Policy/`
+- Linked to disbursement entries in `Disbursement_Policy/`
 
-\- Included in quarterly donor transparency reports
+- Included in quarterly donor transparency reports
 
 
 
@@ -96,7 +96,7 @@ Each confirmed mobile donation is:
 
 
 
-\## 🛡️ Ethical Notes
+## 🛡️ Ethical Notes
 
 
 
@@ -104,11 +104,11 @@ We do not accept mobile donations from:
 
 
 
-\- Unverified or suspicious accounts
+- Unverified or suspicious accounts
 
-\- Entities involved in unethical industries (arms, tobacco, exploitation)
+- Entities involved in unethical industries (arms, tobacco, exploitation)
 
-\- Platforms that do not support traceable receipts or donor identity
+- Platforms that do not support traceable receipts or donor identity
 
 
 
@@ -116,7 +116,7 @@ We do not accept mobile donations from:
 
 
 
-\## 📬 Donation Instructions
+## 📬 Donation Instructions
 
 
 
@@ -124,11 +124,11 @@ To donate via mobile finance:
 
 
 
-1\. Send your contribution to the designated account (shared upon request)
+1. Send your contribution to the designated account (shared upon request)
 
-2\. Email your transaction ID and purpose to: \*\*donations@bmsf.org.bd\*\*
+2. Email your transaction ID and purpose to: **donations@bmsf.org.bd**
 
-3\. Receive confirmation and YAML log entry within 48 hours
+3. Receive confirmation and YAML log entry within 48 hours
 
 
 
@@ -136,7 +136,7 @@ To donate via mobile finance:
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

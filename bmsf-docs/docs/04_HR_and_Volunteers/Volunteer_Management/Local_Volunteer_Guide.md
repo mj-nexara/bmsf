@@ -1,4 +1,4 @@
-\# Local Volunteer Guide — Bangladesh
+# Local Volunteer Guide — Bangladesh
 
 
 
@@ -10,7 +10,7 @@ This guide outlines the onboarding process, ethical expectations, and field prot
 
 
 
-\## 🧭 Who Can Volunteer?
+## 🧭 Who Can Volunteer?
 
 
 
@@ -18,13 +18,13 @@ We welcome individuals who:
 
 
 
-\- Are 18 years or older (exceptions permitted for supervised youth programs)
+- Are 18 years or older (exceptions permitted for supervised youth programs)
 
-\- Reside in Bangladesh or have local deployment capacity
+- Reside in Bangladesh or have local deployment capacity
 
-\- Commit to humanitarian neutrality and trauma-informed service
+- Commit to humanitarian neutrality and trauma-informed service
 
-\- Are willing to document their contributions for legacy and audit purposes
+- Are willing to document their contributions for legacy and audit purposes
 
 
 
@@ -32,7 +32,7 @@ We welcome individuals who:
 
 
 
-\## 📋 Onboarding Checklist
+## 📋 Onboarding Checklist
 
 
 
@@ -40,15 +40,15 @@ Before deployment, each volunteer must:
 
 
 
-\- Submit a completed application form (digital or paper)
+- Submit a completed application form (digital or paper)
 
-\- Provide NID or student ID copy
+- Provide NID or student ID copy
 
-\- Attend a 1-hour orientation (in-person or remote)
+- Attend a 1-hour orientation (in-person or remote)
 
-\- Sign a volunteer agreement (see `Staff\_Contracts/Template\_Contract\_BD.docx`)
+- Sign a volunteer agreement (see `Staff_Contracts/Template_Contract_BD.docx`)
 
-\- Receive a deployment tag and YAML log entry
+- Receive a deployment tag and YAML log entry
 
 
 
@@ -56,7 +56,7 @@ Before deployment, each volunteer must:
 
 
 
-\## 🛡️ Code of Conduct
+## 🛡️ Code of Conduct
 
 
 
@@ -64,15 +64,15 @@ Volunteers must:
 
 
 
-\- Treat all beneficiaries with dignity and respect
+- Treat all beneficiaries with dignity and respect
 
-\- Avoid political, religious, or commercial promotion during service
+- Avoid political, religious, or commercial promotion during service
 
-\- Maintain confidentiality of sensitive data
+- Maintain confidentiality of sensitive data
 
-\- Report misconduct or safety concerns immediately
+- Report misconduct or safety concerns immediately
 
-\- Uphold trauma-informed engagement, especially in crisis zones
+- Uphold trauma-informed engagement, especially in crisis zones
 
 
 
@@ -80,7 +80,7 @@ Volunteers must:
 
 
 
-\## 🏞️ Field Deployment Zones
+## 🏞️ Field Deployment Zones
 
 
 
@@ -88,15 +88,15 @@ Volunteers may be assigned to:
 
 
 
-\- Urban HQ (Dhaka): Documentation, logistics, translation
+- Urban HQ (Dhaka): Documentation, logistics, translation
 
-\- Rural Zones: Education, health camps, legal awareness
+- Rural Zones: Education, health camps, legal awareness
 
-\- Emergency Sites: Flood relief, trauma support, mobile aid
+- Emergency Sites: Flood relief, trauma support, mobile aid
 
 
 
-Each deployment is confirmed via YAML log and linked to a program tag (see `Disbursement\_Policy/`).
+Each deployment is confirmed via YAML log and linked to a program tag (see `Disbursement_Policy/`).
 
 
 
@@ -104,7 +104,7 @@ Each deployment is confirmed via YAML log and linked to a program tag (see `Disb
 
 
 
-\## 📚 Documentation Rituals
+## 📚 Documentation Rituals
 
 
 
@@ -112,13 +112,13 @@ Volunteers are encouraged to:
 
 
 
-\- Maintain daily logs (written or voice memos)
+- Maintain daily logs (written or voice memos)
 
-\- Submit field photos (with consent)
+- Submit field photos (with consent)
 
-\- Contribute to multilingual README anchors
+- Contribute to multilingual README anchors
 
-\- Participate in legacy documentation (see `docs/00\_Legacy\_Anchors/`)
+- Participate in legacy documentation (see `docs/00_Legacy_Anchors/`)
 
 
 
@@ -126,7 +126,7 @@ Volunteers are encouraged to:
 
 
 
-\## 🔐 Exit \& Legacy
+## 🔐 Exit & Legacy
 
 
 
@@ -134,13 +134,13 @@ Upon completion, volunteers receive:
 
 
 
-\- A signed certificate of service
+- A signed certificate of service
 
-\- YAML log confirmation
+- YAML log confirmation
 
-\- Optional legacy testimonial (archived with consent)
+- Optional legacy testimonial (archived with consent)
 
-\- Invitation to join alumni network
+- Invitation to join alumni network
 
 
 
@@ -148,15 +148,15 @@ Upon completion, volunteers receive:
 
 
 
-\## 📬 Contact for Volunteering
+## 📬 Contact for Volunteering
 
 
 
-\*\*Volunteer Coordination Desk\*\*  
+**Volunteer Coordination Desk**  
 
 📧 volunteer@bmsf.org.bd  
 
-🌐 \[www.bmsf.org.bd/volunteer](http://www.bmsf.org.bd/volunteer)  
+🌐 [www.bmsf.org.bd/volunteer](http://www.bmsf.org.bd/volunteer)  
 
 📞 +880-XXX-XXXXXXX
 
@@ -166,7 +166,7 @@ Upon completion, volunteers receive:
 
 
 
-\_Your service is not just a task — it is a legacy. Every hour, every action, every word you offer becomes part of our ethical archive.\_
+_Your service is not just a task — it is a legacy. Every hour, every action, every word you offer becomes part of our ethical archive._
 
 
 

@@ -1,4 +1,4 @@
-\# Human Resources \& Volunteer Engagement
+# Human Resources & Volunteer Engagement
 
 
 
@@ -10,61 +10,61 @@ This folder documents the ethical onboarding, compensation, field deployment, an
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-04\_HR\_and\_Volunteers/
+04_HR_and_Volunteers/
 
-├── Staff\_Contracts/
+├── Staff_Contracts/
 
-│   ├── Template\_Contract\_BD.docx
+│   ├── Template_Contract_BD.docx
 
-│   ├── Gaza\_Field\_Staff\_Contract.docx
+│   ├── Gaza_Field_Staff_Contract.docx
 
-│   ├── YAML\_Contract\_Log.yaml
-
-│   └── README.md
-
-├── Volunteer\_Management/
-
-│   ├── Local\_Volunteer\_Guide.md
-
-│   ├── International\_Volunteer\_Guide.md
-
-│   ├── Gaza\_Deployment\_Protocol.md
+│   ├── YAML_Contract_Log.yaml
 
 │   └── README.md
 
-├── Honorarium\_and\_Compensation/
+├── Volunteer_Management/
 
-│   ├── Staff\_Salary\_Structure\_BD.xlsx
+│   ├── Local_Volunteer_Guide.md
 
-│   ├── Volunteer\_Honorarium\_Policy.md
+│   ├── International_Volunteer_Guide.md
 
-│   ├── Donor\_Funded\_Compensation.yaml
-
-│   └── README.md
-
-├── Training\_and\_Ethics/
-
-│   ├── Onboarding\_Manual.md
-
-│   ├── Humanitarian\_Ethics\_Guide.md
-
-│   ├── Trauma\_Sensitivity\_Training.md
+│   ├── Gaza_Deployment_Protocol.md
 
 │   └── README.md
 
-├── Field\_Deployment\_Records/
+├── Honorarium_and_Compensation/
 
-│   ├── Gaza\_Team\_2025.yaml
+│   ├── Staff_Salary_Structure_BD.xlsx
 
-│   ├── Rural\_BD\_Teams\_2024.xlsx
+│   ├── Volunteer_Honorarium_Policy.md
 
-│   ├── Deployment\_Confirmation\_Log.md
+│   ├── Donor_Funded_Compensation.yaml
+
+│   └── README.md
+
+├── Training_and_Ethics/
+
+│   ├── Onboarding_Manual.md
+
+│   ├── Humanitarian_Ethics_Guide.md
+
+│   ├── Trauma_Sensitivity_Training.md
+
+│   └── README.md
+
+├── Field_Deployment_Records/
+
+│   ├── Gaza_Team_2025.yaml
+
+│   ├── Rural_BD_Teams_2024.xlsx
+
+│   ├── Deployment_Confirmation_Log.md
 
 │   └── README.md
 
@@ -78,19 +78,19 @@ This folder documents the ethical onboarding, compensation, field deployment, an
 
 
 
-\## 🧭 HR \& Volunteer Principles
+## 🧭 HR & Volunteer Principles
 
 
 
-\- \*\*Trauma-Informed\*\*: All onboarding, contracts, and deployments include psychological safeguards  
+- **Trauma-Informed**: All onboarding, contracts, and deployments include psychological safeguards  
 
-\- \*\*Multilingual\*\*: Documentation is available in Bengali, English, and Arabic  
+- **Multilingual**: Documentation is available in Bengali, English, and Arabic  
 
-\- \*\*Donor-Linked\*\*: Compensation and deployments are traceable to donor IDs and program tags  
+- **Donor-Linked**: Compensation and deployments are traceable to donor IDs and program tags  
 
-\- \*\*Audit-Ready\*\*: Every action is logged in YAML, Markdown, or spreadsheet formats with timestamped confirmations  
+- **Audit-Ready**: Every action is logged in YAML, Markdown, or spreadsheet formats with timestamped confirmations  
 
-\- \*\*Legacy-Oriented\*\*: Staff and volunteers may contribute to `docs/00\_Legacy\_Anchors/` with consent
+- **Legacy-Oriented**: Staff and volunteers may contribute to `docs/00_Legacy_Anchors/` with consent
 
 
 
@@ -98,13 +98,13 @@ This folder documents the ethical onboarding, compensation, field deployment, an
 
 
 
-\## 🔐 Compliance \& Review
+## 🔐 Compliance & Review
 
 
 
-\- All HR actions are reviewed by:
+- All HR actions are reviewed by:
 
-&nbsp; - HR \& Volunteer Coordination Desk  
+&nbsp; - HR & Volunteer Coordination Desk  
 
 &nbsp; - Legal Compliance Team  
 
@@ -118,15 +118,15 @@ This folder documents the ethical onboarding, compensation, field deployment, an
 
 
 
-\## 📚 Linked Documentation
+## 📚 Linked Documentation
 
 
 
-\- Finance \& Audit: `docs/03\_Finance/`  
+- Finance & Audit: `docs/03_Finance/`  
 
-\- Monitoring \& Evaluation: `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/`  
+- Monitoring & Evaluation: `docs/06_Monitoring_and_Evaluation/Field_Reports/`  
 
-\- Legacy Anchors: `docs/00\_Legacy\_Anchors/`
+- Legacy Anchors: `docs/00_Legacy_Anchors/`
 
 
 
@@ -134,7 +134,7 @@ This folder documents the ethical onboarding, compensation, field deployment, an
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

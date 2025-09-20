@@ -1,4 +1,4 @@
-\# Onboarding Manual — Staff \& Volunteers
+# Onboarding Manual — Staff & Volunteers
 
 
 
@@ -10,17 +10,17 @@ This manual outlines the ethical onboarding process for all individuals joining 
 
 
 
-\## 🧭 Onboarding Objectives
+## 🧭 Onboarding Objectives
 
 
 
-\- Affirm the dignity and ethical value of every staff and volunteer  
+- Affirm the dignity and ethical value of every staff and volunteer  
 
-\- Ensure legal and humanitarian compliance  
+- Ensure legal and humanitarian compliance  
 
-\- Document onboarding steps for audit and legacy purposes  
+- Document onboarding steps for audit and legacy purposes  
 
-\- Prepare individuals for trauma-informed, field-ready service
+- Prepare individuals for trauma-informed, field-ready service
 
 
 
@@ -28,7 +28,7 @@ This manual outlines the ethical onboarding process for all individuals joining 
 
 
 
-\## 📋 Onboarding Checklist
+## 📋 Onboarding Checklist
 
 
 
@@ -42,13 +42,13 @@ This manual outlines the ethical onboarding process for all individuals joining 
 
 | 3    | Orientation Session | 1–2 hours, trauma-informed |
 
-| 4    | Contract Signing | See `Staff\_Contracts/` |
+| 4    | Contract Signing | See `Staff_Contracts/` |
 
 | 5    | Deployment Tag Issuance | YAML log entry |
 
 | 6    | Field Protocol Briefing | Zone-specific guide |
 
-| 7    | Ethics \& Conduct Agreement | Signed acknowledgment |
+| 7    | Ethics & Conduct Agreement | Signed acknowledgment |
 
 
 
@@ -56,7 +56,7 @@ This manual outlines the ethical onboarding process for all individuals joining 
 
 
 
-\## 🛡️ Ethics \& Conduct
+## 🛡️ Ethics & Conduct
 
 
 
@@ -64,15 +64,15 @@ All personnel must:
 
 
 
-\- Uphold humanitarian neutrality and nonviolence  
+- Uphold humanitarian neutrality and nonviolence  
 
-\- Respect trauma survivors and community dignity  
+- Respect trauma survivors and community dignity  
 
-\- Maintain confidentiality of beneficiary and donor data  
+- Maintain confidentiality of beneficiary and donor data  
 
-\- Avoid political, religious, or commercial promotion during duty  
+- Avoid political, religious, or commercial promotion during duty  
 
-\- Report misconduct or safety concerns immediately
+- Report misconduct or safety concerns immediately
 
 
 
@@ -80,7 +80,7 @@ All personnel must:
 
 
 
-\## 🌍 Multilingual Orientation
+## 🌍 Multilingual Orientation
 
 
 
@@ -88,11 +88,11 @@ Orientation materials are available in:
 
 
 
-\- Bengali (বাংলা)  
+- Bengali (বাংলা)  
 
-\- English  
+- English  
 
-\- Arabic (for Gaza deployments)
+- Arabic (for Gaza deployments)
 
 
 
@@ -104,19 +104,19 @@ Volunteers may request translated contracts and guides during onboarding.
 
 
 
-\## 📚 Linked Documentation
+## 📚 Linked Documentation
 
 
 
-\- Contracts: `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
+- Contracts: `Staff_Contracts/YAML_Contract_Log.yaml`  
 
-\- Deployment Protocols: `Volunteer\_Management/`  
+- Deployment Protocols: `Volunteer_Management/`  
 
-\- Honorarium Policy: `Honorarium\_and\_Compensation/Volunteer\_Honorarium\_Policy.md`  
+- Honorarium Policy: `Honorarium_and_Compensation/Volunteer_Honorarium_Policy.md`  
 
-\- Field Ethics: `Training\_and\_Ethics/Field\_Conduct\_Guide.md`  
+- Field Ethics: `Training_and_Ethics/Field_Conduct_Guide.md`  
 
-\- Legacy Anchors: `docs/00\_Legacy\_Anchors/`
+- Legacy Anchors: `docs/00_Legacy_Anchors/`
 
 
 
@@ -124,7 +124,7 @@ Volunteers may request translated contracts and guides during onboarding.
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

@@ -1,4 +1,4 @@
-\# Fund Receiving Protocols
+# Fund Receiving Protocols
 
 
 
@@ -10,7 +10,7 @@ This folder documents the approved channels, ethical safeguards, and audit-ready
 
 
 
-\## 🌐 Overview
+## 🌐 Overview
 
 
 
@@ -18,11 +18,11 @@ B.M. Sabab Foundation receives funds through:
 
 
 
-\- \*\*Bank Transfers\*\* — Local and international SWIFT-enabled accounts
+- **Bank Transfers** — Local and international SWIFT-enabled accounts
 
-\- \*\*Mobile Finance Gateways\*\* — bKash, Nagad, Rocket, and verified international apps
+- **Mobile Finance Gateways** — bKash, Nagad, Rocket, and verified international apps
 
-\- \*\*Cryptocurrency\*\* — USDT, BTC, ETH, and other traceable tokens (upon compliance vetting)
+- **Cryptocurrency** — USDT, BTC, ETH, and other traceable tokens (upon compliance vetting)
 
 
 
@@ -34,19 +34,19 @@ Each method is governed by strict documentation, donor verification, and YAML-ba
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-Fund\_Receiving\_Protocols/
+Fund_Receiving_Protocols/
 
-├── Bank\_Transfer.md
+├── Bank_Transfer.md
 
-├── Mobile\_Finance\_Gateway.md
+├── Mobile_Finance_Gateway.md
 
-├── Crypto\_Transparency.md
+├── Crypto_Transparency.md
 
 ├── README.md
 
@@ -54,11 +54,11 @@ Fund\_Receiving\_Protocols/
 
 
 
-\- `Bank\_Transfer.md`: Protocols for secure bank donations with donor ID and audit trail
+- `Bank_Transfer.md`: Protocols for secure bank donations with donor ID and audit trail
 
-\- `Mobile\_Finance\_Gateway.md`: Guidelines for mobile donations via bKash, Nagad, etc.
+- `Mobile_Finance_Gateway.md`: Guidelines for mobile donations via bKash, Nagad, etc.
 
-\- `Crypto\_Transparency.md`: Ethical and technical framework for crypto-based contributions
+- `Crypto_Transparency.md`: Ethical and technical framework for crypto-based contributions
 
 
 
@@ -66,7 +66,7 @@ Fund\_Receiving\_Protocols/
 
 
 
-\## 🔐 Compliance \& Safeguards
+## 🔐 Compliance & Safeguards
 
 
 
@@ -74,13 +74,13 @@ All fund-receiving methods are:
 
 
 
-\- Vetted by the \*\*Finance \& Legal Desk\*\*
+- Vetted by the **Finance & Legal Desk**
 
-\- Logged in YAML format with timestamp and confirmation status
+- Logged in YAML format with timestamp and confirmation status
 
-\- Linked to disbursement entries in `Budget\_Tracking/Monthly\_Expense\_Log.yaml`
+- Linked to disbursement entries in `Budget_Tracking/Monthly_Expense_Log.yaml`
 
-\- Reviewed quarterly for audit and donor transparency reporting
+- Reviewed quarterly for audit and donor transparency reporting
 
 
 
@@ -96,11 +96,11 @@ We do not accept funds from:
 
 
 
-\- Anonymous or untraceable sources
+- Anonymous or untraceable sources
 
-\- Entities involved in arms, tobacco, or exploitative industries
+- Entities involved in arms, tobacco, or exploitative industries
 
-\- Platforms under international sanctions or lacking KYC protocols
+- Platforms under international sanctions or lacking KYC protocols
 
 
 
@@ -108,7 +108,7 @@ We do not accept funds from:
 
 
 
-\## 📬 Contact for Donation Setup
+## 📬 Contact for Donation Setup
 
 
 
@@ -116,11 +116,11 @@ To initiate a donation via any channel:
 
 
 
-\*\*Finance \& Compliance Desk\*\*  
+**Finance & Compliance Desk**  
 
 📧 donations@bmsf.org.bd  
 
-🌐 \[www.bmsf.org.bd/donate](http://www.bmsf.org.bd/donate)  
+🌐 [www.bmsf.org.bd/donate](http://www.bmsf.org.bd/donate)  
 
 📞 +880-184-2666611
 
@@ -130,7 +130,7 @@ To initiate a donation via any channel:
 
 
 
-\_This folder is part of B.M. Sabab Foundation’s inheritable finance archive. Every donation is a legacy of shared dignity.\_
+_This folder is part of B.M. Sabab Foundation’s inheritable finance archive. Every donation is a legacy of shared dignity._
 
 
 

@@ -1,4 +1,4 @@
-\# Trauma Sensitivity Training Manual
+# Trauma Sensitivity Training Manual
 
 
 
@@ -10,17 +10,17 @@ This manual provides foundational guidance for engaging with trauma-affected ind
 
 
 
-\## 🧭 Training Objectives
+## 🧭 Training Objectives
 
 
 
-\- Understand the psychological impact of trauma in humanitarian contexts  
+- Understand the psychological impact of trauma in humanitarian contexts  
 
-\- Learn trauma-sensitive communication and field behavior  
+- Learn trauma-sensitive communication and field behavior  
 
-\- Prevent retraumatization through ethical restraint and informed consent  
+- Prevent retraumatization through ethical restraint and informed consent  
 
-\- Document trauma-related engagements with dignity and multilingual care
+- Document trauma-related engagements with dignity and multilingual care
 
 
 
@@ -28,7 +28,7 @@ This manual provides foundational guidance for engaging with trauma-affected ind
 
 
 
-\## 🧠 Core Concepts
+## 🧠 Core Concepts
 
 
 
@@ -52,39 +52,19 @@ This manual provides foundational guidance for engaging with trauma-affected ind
 
 
 
-\## 🗣️ Field Communication Guidelines
+## 🗣️ Field Communication Guidelines
 
 
 
-\- Use calm, non-invasive language  
+- Use calm, non-invasive language  
 
-\- Avoid probing questions about loss or violence  
+- Avoid probing questions about loss or violence  
 
-\- Offer choices (e.g., “Would you like to speak now or later?”)  
+- Offer choices (e.g., “Would you like to speak now or later?”)  
 
-\- Respect silence — it may be protective  
+- Respect silence — it may be protective  
 
-\- Use interpreters when needed, with consent
-
-
-
----
-
-
-
-\## 📋 Documentation Protocols
-
-
-
-\- Never record or photograph without informed consent  
-
-\- Use pseudonyms or initials when archiving sensitive stories  
-
-\- Store trauma-related logs in encrypted formats  
-
-\- Link field notes to program tags, not personal identifiers  
-
-\- Archive reflections in `docs/00\_Legacy\_Anchors/` only with consent
+- Use interpreters when needed, with consent
 
 
 
@@ -92,37 +72,19 @@ This manual provides foundational guidance for engaging with trauma-affected ind
 
 
 
-\## 🛡️ Staff \& Volunteer Safeguards
+## 📋 Documentation Protocols
 
 
 
-\- Mandatory trauma debriefing after Gaza or emergency deployments  
+- Never record or photograph without informed consent  
 
-\- Peer support circles (virtual or in-person)  
+- Use pseudonyms or initials when archiving sensitive stories  
 
-\- Optional legacy testimonial for emotional closure  
+- Store trauma-related logs in encrypted formats  
 
-\- Honorarium for trauma zones includes debrief stipend (see `Honorarium\_and\_Compensation/`)
+- Link field notes to program tags, not personal identifiers  
 
-
-
----
-
-
-
-\## 📚 Linked Documentation
-
-
-
-\- Gaza Deployment Protocol: `Volunteer\_Management/Gaza\_Deployment\_Protocol.md`  
-
-\- Ethics Guide: `Training\_and\_Ethics/Humanitarian\_Ethics\_Guide.md`  
-
-\- Onboarding Manual: `Training\_and\_Ethics/Onboarding\_Manual.md`  
-
-\- Contracts: `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
-
-\- Legacy Anchors: `docs/00\_Legacy\_Anchors/`
+- Archive reflections in `docs/00_Legacy_Anchors/` only with consent
 
 
 
@@ -130,7 +92,45 @@ This manual provides foundational guidance for engaging with trauma-affected ind
 
 
 
-\## 🕊️ Legacy Statement
+## 🛡️ Staff & Volunteer Safeguards
+
+
+
+- Mandatory trauma debriefing after Gaza or emergency deployments  
+
+- Peer support circles (virtual or in-person)  
+
+- Optional legacy testimonial for emotional closure  
+
+- Honorarium for trauma zones includes debrief stipend (see `Honorarium_and_Compensation/`)
+
+
+
+---
+
+
+
+## 📚 Linked Documentation
+
+
+
+- Gaza Deployment Protocol: `Volunteer_Management/Gaza_Deployment_Protocol.md`  
+
+- Ethics Guide: `Training_and_Ethics/Humanitarian_Ethics_Guide.md`  
+
+- Onboarding Manual: `Training_and_Ethics/Onboarding_Manual.md`  
+
+- Contracts: `Staff_Contracts/YAML_Contract_Log.yaml`  
+
+- Legacy Anchors: `docs/00_Legacy_Anchors/`
+
+
+
+---
+
+
+
+## 🕊️ Legacy Statement
 
 
 

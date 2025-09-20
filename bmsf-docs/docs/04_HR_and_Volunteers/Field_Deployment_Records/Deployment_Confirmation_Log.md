@@ -1,4 +1,4 @@
-\# Deployment Confirmation Log
+# Deployment Confirmation Log
 
 
 
@@ -10,17 +10,17 @@ This document summarizes confirmed field deployments for staff and volunteers en
 
 
 
-\## 🧭 Purpose
+## 🧭 Purpose
 
 
 
-\- Affirm ethical deployment of field personnel  
+- Affirm ethical deployment of field personnel  
 
-\- Link each deployment to contract ID, donor ID, and program tag  
+- Link each deployment to contract ID, donor ID, and program tag  
 
-\- Ensure audit-ready traceability across Bangladesh and Gaza  
+- Ensure audit-ready traceability across Bangladesh and Gaza  
 
-\- Document trauma debriefing and legacy rituals where applicable
+- Document trauma debriefing and legacy rituals where applicable
 
 
 
@@ -28,7 +28,7 @@ This document summarizes confirmed field deployments for staff and volunteers en
 
 
 
-\## 📋 Confirmed Deployments
+## 📋 Confirmed Deployments
 
 
 
@@ -52,33 +52,33 @@ This document summarizes confirmed field deployments for staff and volunteers en
 
 
 
-\## 📚 Linked Documentation
+## 📚 Linked Documentation
 
 
 
-\- YAML Logs:  
+- YAML Logs:  
 
-&nbsp; - `Staff\_Contracts/YAML\_Contract\_Log.yaml`  
+&nbsp; - `Staff_Contracts/YAML_Contract_Log.yaml`  
 
-&nbsp; - `Field\_Deployment\_Records/Gaza\_Team\_2025.yaml`  
+&nbsp; - `Field_Deployment_Records/Gaza_Team_2025.yaml`  
 
-\- Donor-Funded Compensation:  
+- Donor-Funded Compensation:  
 
-&nbsp; - `Honorarium\_and\_Compensation/Donor\_Funded\_Compensation.yaml`  
+&nbsp; - `Honorarium_and_Compensation/Donor_Funded_Compensation.yaml`  
 
-\- Audit Reports:  
+- Audit Reports:  
 
-&nbsp; - `Audit\_Reports/Internal\_Audit\_2024.pdf`  
+&nbsp; - `Audit_Reports/Internal_Audit_2024.pdf`  
 
-&nbsp; - `Audit\_Reports/External\_Audit\_2025.pdf`  
+&nbsp; - `Audit_Reports/External_Audit_2025.pdf`  
 
-\- Trauma Debriefing:  
+- Trauma Debriefing:  
 
-&nbsp; - `Training\_and\_Ethics/Trauma\_Sensitivity\_Training.md`  
+&nbsp; - `Training_and_Ethics/Trauma_Sensitivity_Training.md`  
 
-\- Legacy Anchors:  
+- Legacy Anchors:  
 
-&nbsp; - `docs/00\_Legacy\_Anchors/`
+&nbsp; - `docs/00_Legacy_Anchors/`
 
 
 
@@ -86,7 +86,7 @@ This document summarizes confirmed field deployments for staff and volunteers en
 
 
 
-\## 🕊️ Legacy Statement
+## 🕊️ Legacy Statement
 
 
 

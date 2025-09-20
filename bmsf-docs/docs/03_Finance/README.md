@@ -1,4 +1,4 @@
-\# Finance Documentation
+# Finance Documentation
 
 
 
@@ -10,59 +10,59 @@ This folder contains the inheritable financial architecture of B.M. Sabab Founda
 
 
 
-\## 📦 Folder Structure
+## 📦 Folder Structure
 
 
 
 ```plaintext
 
-03\_Finance/
+03_Finance/
 
-├── Donation\_Sources/
+├── Donation_Sources/
 
-│   ├── Local\_Donors.yaml
+│   ├── Local_Donors.yaml
 
-│   ├── Global\_Donors.yaml
-
-│   └── README.md
-
-├── Fund\_Receiving\_Protocols/
-
-│   ├── Bank\_Transfer.md
-
-│   ├── Mobile\_Finance\_Gateway.md
-
-│   ├── Crypto\_Transparency.md
+│   ├── Global_Donors.yaml
 
 │   └── README.md
 
-├── Disbursement\_Policy/
+├── Fund_Receiving_Protocols/
 
-│   ├── Gaza\_Relief\_Disbursement.md
+│   ├── Bank_Transfer.md
 
-│   ├── Rural\_Bangladesh\_Programs.md
+│   ├── Mobile_Finance_Gateway.md
 
-│   ├── Emergency\_Response\_Fund.md
-
-│   └── README.md
-
-├── Budget\_Tracking/
-
-│   ├── Annual\_Budget\_2025.xlsx
-
-│   ├── Monthly\_Expense\_Log.yaml
-
-│   ├── Field\_Allocation\_Summary.md
+│   ├── Crypto_Transparency.md
 
 │   └── README.md
 
-├── Audit\_Reports/
+├── Disbursement_Policy/
 
-│   ├── Internal\_Audit\_2024.pdf
+│   ├── Gaza_Relief_Disbursement.md
 
-│   ├── External\_Audit\_2025.pdf
+│   ├── Rural_Bangladesh_Programs.md
 
-│   ├── Donor\_Transparency\_Report.md
+│   ├── Emergency_Response_Fund.md
+
+│   └── README.md
+
+├── Budget_Tracking/
+
+│   ├── Annual_Budget_2025.xlsx
+
+│   ├── Monthly_Expense_Log.yaml
+
+│   ├── Field_Allocation_Summary.md
+
+│   └── README.md
+
+├── Audit_Reports/
+
+│   ├── Internal_Audit_2024.pdf
+
+│   ├── External_Audit_2025.pdf
+
+│   ├── Donor_Transparency_Report.md
 
 │   └── README.md
 
@@ -76,7 +76,7 @@ This folder contains the inheritable financial architecture of B.M. Sabab Founda
 
 
 
-\## 🧭 Purpose
+## 🧭 Purpose
 
 
 
@@ -84,13 +84,13 @@ This folder ensures:
 
 
 
-\- Ethical traceability of every donation and disbursement  
+- Ethical traceability of every donation and disbursement  
 
-\- Modular documentation for local and global compliance  
+- Modular documentation for local and global compliance  
 
-\- Audit-ready logs in YAML, Markdown, and spreadsheet formats  
+- Audit-ready logs in YAML, Markdown, and spreadsheet formats  
 
-\- Multilingual anchors for donor and beneficiary dignity
+- Multilingual anchors for donor and beneficiary dignity
 
 
 
@@ -98,7 +98,7 @@ This folder ensures:
 
 
 
-\## 🔐 Compliance \& Stewardship
+## 🔐 Compliance & Stewardship
 
 
 
@@ -106,29 +106,13 @@ All financial actions are:
 
 
 
-\- Reviewed by the \*\*Finance \& Legal Desk\*\*  
+- Reviewed by the **Finance & Legal Desk**  
 
-\- Linked to donor entries in `Donation\_Sources/`  
+- Linked to donor entries in `Donation_Sources`  
 
-\- Logged in `Budget\_Tracking/Monthly\_Expense\_Log.yaml`  
+- Logged in `Budget_Tracking/Monthly_Expense_Log.yaml`  
 
-\- Audited via internal and external reports in `Audit\_Reports/`
-
-
-
----
-
-
-
-\## 📚 Linked Archives
-
-
-
-\- Governance: `docs/02\_Governance/`  
-
-\- Field Reports: `docs/06\_Monitoring\_and\_Evaluation/Field\_Reports/`  
-
-\- Legacy Documentation: `docs/00\_Legacy\_Anchors/`
+- Audited via internal and external reports in `Audit_Reports`
 
 
 
@@ -136,7 +120,23 @@ All financial actions are:
 
 
 
-\## 🕊️ Legacy Statement
+## 📚 Linked Archives
+
+
+
+- Governance: `docs/02_Governance`  
+
+- Field Reports: `docs/06_Monitoring_and_Evaluation/Field_Reports`  
+
+- Legacy Documentation: `docs/00_Legacy_Anchors/`
+
+
+
+---
+
+
+
+## 🕊️ Legacy Statement
 
 
 
