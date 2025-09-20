@@ -1,0 +1,45 @@
+## 📊 `Staff_Salary_Structure_BD.xlsx` — Sheet Structure
+
+### 🧾 Sheet 1: Salary Bands by Role
+
+| Role Title                  | Grade | Monthly Salary (BDT) | Notes                                 |
+|-----------------------------|-------|-----------------------|----------------------------------------|
+| Executive Director          | A     | 150,000               | Strategic oversight, donor engagement  |
+| Program Manager             | B     | 100,000               | Field coordination, reporting          |
+| Legal Aid Coordinator       | B     | 90,000                | Case management, rights advocacy       |
+| Finance Officer             | C     | 80,000                | Budget tracking, donor linkage         |
+| HR & Volunteer Coordinator  | C     | 75,000                | Onboarding, trauma-informed care       |
+| Field Deployment Lead       | D     | 65,000                | Rural logistics, emergency response    |
+| Documentation Assistant     | E     | 45,000                | README anchors, YAML logs              |
+| Volunteer (Honorarium)      | V     | 10,000–25,000         | Based on zone, risk, and contribution  |
+
+---
+
+### 📋 Sheet 2: Allowances & Benefits
+
+| Allowance Type        | Amount (BDT) | Eligibility Criteria                     |
+|-----------------------|--------------|------------------------------------------|
+| Field Risk Allowance  | 5,000–15,000 | Active deployment in rural/emergency zones |
+| Communication Stipend | 2,000        | Staff with mobile coordination duties    |
+| Transport Reimbursement | Actuals    | Verified field travel with receipts      |
+| Trauma Debrief Honorarium | 3,000    | Staff completing Gaza or emergency missions |
+
+---
+
+### 📊 Sheet 3: Salary Review Log
+
+| Staff Name       | Role Title            | Last Review Date | Adjustment (%) | Reviewed By     |
+|------------------|-----------------------|------------------|----------------|-----------------|
+| Farzana Rahman   | Legal Aid Coordinator | 2025-06-01       | +5%            | HR Desk         |
+| Md. Rafiq Islam  | Field Volunteer       | 2025-08-15       | +10%           | Field HR Liaison |
+
+---
+
+### 📚 Sheet 4: Audit Notes
+
+| Entry ID | Reviewed By       | Date       | Notes                                 | Status     |
+|----------|-------------------|------------|---------------------------------------|------------|
+| SAL-BD-2025-001 | Finance Desk     | 2025-01-10 | Salary bands aligned with NGO norms   | Verified   |
+| SAL-BD-2025-002 | Audit Committee  | 2025-07-05 | Gaza honorarium disbursed ethically   | Verified   |
+
+---

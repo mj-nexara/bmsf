@@ -2,102 +2,178 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mj-nexara.github.io/bmsf/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/00_About/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/01_Governance/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/02_Legal_Compliance/International_Laws/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/02_Legal_Compliance/National_Laws/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/03_Finance/Audit_Reports/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Audit_Reports/Donor_Transparency_Report/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/03_Finance/Budget_Tracking/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Budget_Tracking/Field_Allocation_Summary/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/03_Finance/Disbursement_Policy/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Disbursement_Policy/Emergency_Response_Fund/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Disbursement_Policy/Gaza_Relief_Disbursement/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Disbursement_Policy/Rural_Bangladesh_Programs/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/03_Finance/Donation_Sources/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Donation_Sources/CSR_Partners/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/03_Finance/Fund_Receiving_Protocols/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Fund_Receiving_Protocols/Bank_Transfer/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Fund_Receiving_Protocols/Crypto_Transparency/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/03_Finance/Fund_Receiving_Protocols/Mobile_Finance_Gateway/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Field_Deployment_Records/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Field_Deployment_Records/Deployment_Confirmation_Log/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Honorarium_and_Compensation/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Honorarium_and_Compensation/Volunteer_Honorarium_Policy/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Staff_Contracts/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Training_Modules/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Training_and_Ethics/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Training_and_Ethics/Humanitarian_Ethics_Guide/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Training_and_Ethics/Onboarding_Manual/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Training_and_Ethics/Trauma_Sensitivity_Training/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Volunteer_Management/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Volunteer_Management/Gaza_Deployment_Protocol/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Volunteer_Management/International_Volunteer_Guide/</loc>
+         <lastmod>2025-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://mj-nexara.github.io/bmsf/04_HR_and_Volunteers/Volunteer_Management/Local_Volunteer_Guide/</loc>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/05_Programs_and_Operations/International_Programs/Global_Advocacy/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/05_Programs_and_Operations/International_Programs/Refugee_Support/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/05_Programs_and_Operations/National_Programs/Education/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/05_Programs_and_Operations/National_Programs/Legal_Aid/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/06_Monitoring_and_Evaluation/Field_Reports/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/07_IT_and_Digital/YAML_Logs/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/08_Archives_and_Legacy/Multilingual_Documentation/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/08_Archives_and_Legacy/Ritualized_Scripts/Excel_Templates/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
     <url>
          <loc>https://mj-nexara.github.io/bmsf/08_Archives_and_Legacy/Ritualized_Scripts/PowerShell/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-09-20</lastmod>
     </url>
 </urlset>

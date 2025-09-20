@@ -1,0 +1,65 @@
+## 📄 `External_Audit_2025.pdf` — Summary Outline
+
+### 🧾 Cover Page
+
+- **Title**: External Financial Audit — Fiscal Year 2025  
+- **Prepared by**: [Name of Registered Audit Firm], Dhaka  
+- **Commissioned by**: B.M. Sabab Foundation  
+- **Date of Completion**: 2025-09-10  
+- **Scope**: Full review of income, disbursements, donor linkage, and compliance from Jan–Aug 2025
+
+---
+
+### 📋 Section 1: Audit Objectives
+
+- Verify financial integrity of donor-linked disbursements  
+- Confirm compliance with NGO Affairs Bureau and international humanitarian finance standards  
+- Assess documentation quality and traceability across digital and field records  
+- Evaluate risk exposure and recommend mitigation strategies
+
+---
+
+### 📊 Section 2: Financial Summary
+
+| Category                  | Total Received (BDT) | Total Disbursed (BDT) | Verified (%) |
+|---------------------------|----------------------|------------------------|--------------|
+| Gaza Relief Operations    | 12,00,000            | 10,80,000              | 100%         |
+| Rural Bangladesh Programs | 8,50,000             | 7,90,000               | 98%          |
+| Emergency Response Fund   | 5,00,000             | 4,50,000               | 100%         |
+| Documentation & Legacy    | 50,000               | 45,000                 | 100%         |
+
+---
+
+### 🛡️ Section 3: Compliance Findings
+
+- ✅ All Gaza disbursements matched donor declarations and field confirmations  
+- ✅ Crypto donations were traceable via TXIDs and linked to training and trauma programs  
+- ⚠️ One rural disbursement lacked a signed field receipt (corrective action initiated)  
+- ✅ Mobile finance logs matched YAML entries and digital receipts
+
+---
+
+### 📚 Section 4: Documentation Review
+
+- YAML logs were complete and timestamped  
+- Donor IDs linked consistently to disbursement entries  
+- README anchors present in 95% of financial folders  
+- Audit trails aligned with internal and external protocols
+
+---
+
+### 🧭 Section 5: Recommendations
+
+- Strengthen field-level receipt protocols in remote zones  
+- Translate key financial documents into Bengali and Arabic for donor transparency  
+- Introduce quarterly mini-audits to reduce year-end backlog  
+- Expand use of confirmation-based PowerShell scripts for ledger automation
+
+---
+
+### 🕊️ Closing Statement
+
+> “B.M. Sabab Foundation demonstrates exemplary financial stewardship, ethical clarity, and documentation integrity. This audit affirms its readiness to scale humanitarian operations with full donor confidence.”  
+> — [Audit Firm Name], Dhaka
+
+---

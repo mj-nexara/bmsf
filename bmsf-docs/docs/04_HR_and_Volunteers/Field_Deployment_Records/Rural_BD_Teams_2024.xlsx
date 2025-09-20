@@ -1,0 +1,37 @@
+## 📊 `Rural_BD_Teams_2024.xlsx` — Sheet Structure
+
+### 🧾 Sheet 1: Deployment Log by Zone
+
+| Deployment ID | Name              | Role               | Zone             | Start Date | End Date   | Contract ID       | Status   |
+|---------------|-------------------|--------------------|------------------|------------|------------|-------------------|----------|
+| BD-2024-001   | Md. Rafiq Islam   | Field Volunteer     | Rajshahi         | 2024-03-01 | 2024-08-31 | CT-BD-2025-002     | Completed |
+| BD-2024-002   | Taslima Akter     | Documentation Asst. | Khulna           | 2024-09-01 | 2024-12-01 | CT-BD-2025-003     | Active    |
+| BD-2024-003   | Farzana Rahman    | Legal Aid Coord.    | Sylhet           | 2024-01-10 | 2024-12-31 | CT-BD-2025-001     | Active    |
+| BD-2024-004   | Sufia Khatun      | Health Camp Nurse   | Barisal          | 2024-06-01 | 2024-09-30 | CT-BD-2024-004     | Completed |
+| BD-2024-005   | Anonymous         | Trauma Support      | Flood Zone (Sunamganj) | 2024-07-15 | 2024-08-15 | N/A               | Verified  |
+
+---
+
+### 📋 Sheet 2: Donor Linkage
+
+| Deployment ID | Donor ID     | Donor Name               | Program Tag               | Honorarium (BDT) | Audit Reference         |
+|---------------|--------------|--------------------------|----------------------------|------------------|--------------------------|
+| BD-2024-001   | LD-2025-003  | Green Hope Agro Ltd.     | Flood Relief Logistics     | 15,000           | Internal_Audit_2024.pdf  |
+| BD-2024-002   | GD-2025-004  | Global Peace Initiative  | Volunteer Training         | 20,000           | External_Audit_2025.pdf  |
+| BD-2024-003   | GD-2025-002  | Anonymous (Germany)      | Rural Legal Aid            | 25,000           | External_Audit_2025.pdf  |
+| BD-2024-004   | LD-2025-005  | Sadaqah Circle BD        | Health Camp Support        | 12,000           | Internal_Audit_2024.pdf  |
+| BD-2024-005   | GD-2025-001  | Humanity United Foundation | Emergency Trauma Response | 18,000           | External_Audit_2025.pdf  |
+
+---
+
+### 📚 Sheet 3: Documentation Status
+
+| Deployment ID | YAML Logged | Field Photos | README Anchor | Legacy Testimonial |
+|---------------|-------------|--------------|----------------|---------------------|
+| BD-2024-001   | ✅ Yes      | ✅ Yes       | ✅ Yes         | ❌ No               |
+| BD-2024-002   | ✅ Yes      | ✅ Yes       | ✅ Yes         | ✅ Yes              |
+| BD-2024-003   | ✅ Yes      | ✅ Yes       | ✅ Yes         | ✅ Yes              |
+| BD-2024-004   | ✅ Yes      | ✅ Yes       | ❌ Pending     | ❌ No               |
+| BD-2024-005   | ✅ Yes      | ✅ Yes       | ✅ Yes         | ✅ Yes              |
+
+---

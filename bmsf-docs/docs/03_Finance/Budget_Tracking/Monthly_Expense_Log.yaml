@@ -1,0 +1,60 @@
+# Monthly Expense Log — B.M. Sabab Foundation
+# Fiscal Year: 2025
+# Last updated: 2025-09-20
+# This log documents confirmed monthly disbursements with donor linkage and program tags.
+
+- expense_id: EXP-2025-SEP-001
+  date: "2025-09-05"
+  amount_bdt: 120000
+  amount_usd: 1000
+  program: "Gaza Relief Operations"
+  purpose: "Medical kits and trauma counseling"
+  donor_id: GD-2025-001
+  disbursed_by: "Finance Desk"
+  confirmed_by: "Field Operations Desk"
+  receipt_status: "Digital Confirmed"
+  notes: "Partner NGO: Al-Quds Solidarity Network"
+
+- expense_id: EXP-2025-SEP-002
+  date: "2025-09-08"
+  amount_bdt: 85000
+  program: "Rural Bangladesh Programs"
+  purpose: "Flood relief logistics in Rajshahi"
+  donor_id: LD-2025-003
+  disbursed_by: "Field Finance Desk"
+  confirmed_by: "Local Deployment Team"
+  receipt_status: "Signed Field Receipt"
+  notes: "Includes transport and food kits"
+
+- expense_id: EXP-2025-SEP-003
+  date: "2025-09-12"
+  amount_bdt: 50000
+  program: "Emergency Response Fund"
+  purpose: "Rapid aid for displaced families in Sylhet"
+  donor_id: LD-2025-005
+  disbursed_by: "Emergency Finance Desk"
+  confirmed_by: "Compliance Officer"
+  receipt_status: "Digital Confirmed"
+  notes: "Triggered by flash flood alert"
+
+- expense_id: EXP-2025-SEP-004
+  date: "2025-09-15"
+  amount_bdt: 30000
+  program: "Volunteer Training"
+  purpose: "Trauma sensitivity onboarding for Gaza team"
+  donor_id: GD-2025-004
+  disbursed_by: "HR Desk"
+  confirmed_by: "Training Coordinator"
+  receipt_status: "Digital Confirmed"
+  notes: "Includes materials and facilitator honorarium"
+
+- expense_id: EXP-2025-SEP-005
+  date: "2025-09-18"
+  amount_bdt: 15000
+  program: "Documentation & Legacy"
+  purpose: "Multilingual README translation and archival"
+  donor_id: LD-2025-001
+  disbursed_by: "Documentation Desk"
+  confirmed_by: "Audit Committee"
+  receipt_status: "Digital Confirmed"
+  notes: "Bengali and Arabic anchors completed"

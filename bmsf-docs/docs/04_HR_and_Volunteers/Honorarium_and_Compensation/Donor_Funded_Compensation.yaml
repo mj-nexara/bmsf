@@ -1,0 +1,59 @@
+# Donor-Funded Compensation Log — B.M. Sabab Foundation
+# Last updated: 2025-09-20
+# This log documents honorariums and salaries funded by specific donors, with program linkage and audit traceability.
+
+- entry_id: DFC-2025-001
+  donor_id: GD-2025-001
+  donor_name: "Humanity United Foundation"
+  country: "Canada"
+  funded_role: "Trauma Counselor"
+  staff_name: "Layla Al-Khatib"
+  zone: "Gaza City"
+  amount_usd: 300
+  disbursed_on: "2025-06-15"
+  linked_program: "Gaza Emergency Relief"
+  contract_id: CT-GZ-2025-001
+  audit_reference: "External_Audit_2025.pdf"
+  notes: "Honorarium for 1-month trauma support deployment"
+
+- entry_id: DFC-2025-002
+  donor_id: LD-2025-003
+  donor_name: "Green Hope Agro Ltd."
+  country: "Bangladesh"
+  funded_role: "Field Volunteer"
+  staff_name: "Md. Rafiq Islam"
+  zone: "Rajshahi Division"
+  amount_bdt: 15,000
+  disbursed_on: "2025-03-05"
+  linked_program: "Flood Relief Logistics"
+  contract_id: CT-BD-2025-002
+  audit_reference: "Internal_Audit_2024.pdf"
+  notes: "Honorarium for 2-month flood response"
+
+- entry_id: DFC-2025-003
+  donor_id: GD-2025-004
+  donor_name: "Global Peace Initiative"
+  country: "USA"
+  funded_role: "Volunteer Trainer"
+  staff_name: "Taslima Akter"
+  zone: "Khulna Division"
+  amount_usd: 200
+  disbursed_on: "2025-09-10"
+  linked_program: "Volunteer Training"
+  contract_id: CT-BD-2025-003
+  audit_reference: "External_Audit_2025.pdf"
+  notes: "Honorarium for multilingual onboarding sessions"
+
+- entry_id: DFC-2025-004
+  donor_id: GD-2025-002
+  donor_name: "Anonymous"
+  country: "Germany"
+  funded_role: "Documentation Assistant"
+  staff_name: "Anonymous"
+  zone: "Remote"
+  amount_usd: 150
+  disbursed_on: "2025-08-20"
+  linked_program: "Rural Education Documentation"
+  contract_id: "N/A"
+  audit_reference: "External_Audit_2025.pdf"
+  notes: "Remote contribution, verified via YAML logs and README anchors"
