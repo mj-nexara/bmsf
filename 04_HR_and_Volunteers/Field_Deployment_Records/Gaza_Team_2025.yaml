@@ -1,0 +1,59 @@
+# Gaza Field Deployment Log — B.M. Sabab Foundation
+# Last updated: 2025-09-20
+# This log documents confirmed field staff and volunteers deployed to Gaza in 2025.
+
+- deployment_id: GZ-2025-001
+  name: "Layla Al-Khatib"
+  role: "Trauma Counselor"
+  zone: "Gaza City"
+  contract_id: CT-GZ-2025-001
+  start_date: "2025-06-15"
+  end_date: "2025-09-15"
+  donor_id: GD-2025-001
+  linked_program: "Gaza Emergency Relief"
+  honorarium_usd: 300
+  trauma_debriefed: true
+  documentation_submitted: true
+  audit_reference: "External_Audit_2025.pdf"
+
+- deployment_id: GZ-2025-002
+  name: "Yousef Barghouti"
+  role: "Logistics Officer"
+  zone: "Northern Gaza"
+  contract_id: CT-GZ-2025-002
+  start_date: "2025-08-01"
+  end_date: "2025-12-31"
+  donor_id: GD-2025-004
+  linked_program: "Shelter & Supply Coordination"
+  honorarium_usd: 400
+  trauma_debriefed: pending
+  documentation_submitted: true
+  audit_reference: "External_Audit_2025.pdf"
+
+- deployment_id: GZ-2025-003
+  name: "Fatima Al-Najjar"
+  role: "Field Translator"
+  zone: "Gaza City"
+  contract_id: CT-GZ-2025-003
+  start_date: "2025-07-10"
+  end_date: "2025-10-10"
+  donor_id: GD-2025-002
+  linked_program: "Multilingual Trauma Support"
+  honorarium_usd: 250
+  trauma_debriefed: true
+  documentation_submitted: true
+  audit_reference: "External_Audit_2025.pdf"
+
+- deployment_id: GZ-2025-004
+  name: "Anonymous"
+  role: "Remote Documentation Assistant"
+  zone: "Remote"
+  contract_id: N/A
+  start_date: "2025-05-01"
+  end_date: "2025-08-01"
+  donor_id: GD-2025-002
+  linked_program: "Gaza Field Documentation"
+  honorarium_usd: 150
+  trauma_debriefed: not_applicable
+  documentation_submitted: true
+  audit_reference: "External_Audit_2025.pdf"

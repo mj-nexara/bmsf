@@ -1,0 +1,68 @@
+# Staff & Volunteer Contract Log — B.M. Sabab Foundation
+# Last updated: 2025-09-20
+# This log documents confirmed contracts with timestamp, role, and deployment zone.
+
+- contract_id: CT-BD-2025-001
+  name: "Farzana Rahman"
+  role: "Legal Aid Coordinator"
+  zone: "Dhaka HQ"
+  contract_type: "Full-time"
+  start_date: "2025-01-10"
+  end_date: "2025-12-31"
+  signed_on: "2025-01-08"
+  language: "English"
+  document: "Template_Contract_BD.docx"
+  confirmed_by: "HR Desk"
+  status: "Active"
+
+- contract_id: CT-BD-2025-002
+  name: "Md. Rafiq Islam"
+  role: "Field Volunteer"
+  zone: "Rajshahi Division"
+  contract_type: "Part-time"
+  start_date: "2025-03-01"
+  end_date: "2025-08-31"
+  signed_on: "2025-02-25"
+  language: "Bengali"
+  document: "Template_Contract_BD.docx"
+  confirmed_by: "Field HR Liaison"
+  status: "Completed"
+
+- contract_id: CT-GZ-2025-001
+  name: "Layla Al-Khatib"
+  role: "Trauma Counselor"
+  zone: "Gaza City"
+  contract_type: "Emergency Deployment"
+  start_date: "2025-06-15"
+  end_date: "2025-09-15"
+  signed_on: "2025-06-10"
+  language: "Arabic"
+  document: "Gaza_Field_Staff_Contract.docx"
+  confirmed_by: "Gaza Program Coordinator"
+  status: "Completed"
+
+- contract_id: CT-GZ-2025-002
+  name: "Yousef Barghouti"
+  role: "Logistics Officer"
+  zone: "Northern Gaza"
+  contract_type: "Fixed-term"
+  start_date: "2025-08-01"
+  end_date: "2025-12-31"
+  signed_on: "2025-07-28"
+  language: "English"
+  document: "Gaza_Field_Staff_Contract.docx"
+  confirmed_by: "Humanitarian HR Desk"
+  status: "Active"
+
+- contract_id: CT-BD-2025-003
+  name: "Taslima Akter"
+  role: "Documentation Assistant"
+  zone: "Khulna Division"
+  contract_type: "Volunteer"
+  start_date: "2025-09-01"
+  end_date: "2025-12-01"
+  signed_on: "2025-08-29"
+  language: "Bengali"
+  document: "Template_Contract_BD.docx"
+  confirmed_by: "Documentation Desk"
+  status: "Active"

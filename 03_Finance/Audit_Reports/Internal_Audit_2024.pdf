@@ -1,0 +1,65 @@
+## 📄 `Internal_Audit_2024.pdf` — Summary Outline
+
+### 🧾 Cover Page
+
+- **Title**: Internal Financial Audit — Fiscal Year 2024  
+- **Prepared by**: Finance & Legal Desk, B.M. Sabab Foundation  
+- **Date of Completion**: 2025-01-15  
+- **Scope**: All disbursements, donor-linked allocations, and compliance records from Jan–Dec 2024
+
+---
+
+### 📋 Section 1: Audit Objectives
+
+- Ensure ethical use of donor funds  
+- Verify documentation for all disbursements  
+- Confirm compliance with NGO Affairs Bureau and international humanitarian standards  
+- Identify gaps in field-level reporting and digital traceability
+
+---
+
+### 📊 Section 2: Financial Overview
+
+| Category                  | Total Disbursed (BDT) | Verified (%) |
+|---------------------------|------------------------|--------------|
+| Gaza Relief Operations    | 10,50,000              | 100%         |
+| Rural Bangladesh Programs | 7,25,000               | 98%          |
+| Emergency Response Fund   | 4,80,000               | 100%         |
+| Staff Salaries & Honorariums | 5,50,000           | 95%          |
+| Documentation & Legacy    | 40,000                 | 100%         |
+
+---
+
+### 🛡️ Section 3: Compliance Findings
+
+- ✅ All Gaza-related disbursements were confirmed with partner MoUs and field receipts  
+- ⚠️ Two rural disbursements lacked signed field receipts (corrective action initiated)  
+- ✅ All crypto donations were traceable via TXID and donor declarations  
+- ✅ Mobile finance disbursements were confirmed via digital receipts and YAML logs
+
+---
+
+### 📚 Section 4: Documentation Integrity
+
+- YAML logs matched with donor IDs and timestamps  
+- All program tags aligned with budget categories  
+- README anchors and multilingual documentation were present for 92% of disbursements  
+- Audit trails linked to `Monthly_Expense_Log.yaml` and `Field_Reports/`
+
+---
+
+### 🧭 Section 5: Recommendations
+
+- Expand field training on receipt protocols  
+- Automate donor-to-disbursement linkage via internal ledger scripts  
+- Translate audit summaries into Bengali and Arabic for donor transparency  
+- Schedule quarterly mini-audits to reduce year-end backlog
+
+---
+
+### 🕊️ Closing Statement
+
+> “Every transaction is a thread in our ethical archive. This audit affirms our commitment to dignity, transparency, and inheritable stewardship.”  
+> — Internal Audit Committee, B.M. Sabab Foundation
+
+---

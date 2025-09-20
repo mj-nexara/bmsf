@@ -1,0 +1,50 @@
+## 📊 `Annual_Budget_2025.xlsx` — Sheet Structure
+
+### 🧾 Sheet 1: **Budget Overview**
+
+| Category                  | Allocated (BDT) | Allocated (USD) | Notes                              |
+|---------------------------|------------------|------------------|-------------------------------------|
+| Gaza Relief Operations    | 12,00,000        | 10,000           | Trauma care, shelter, logistics     |
+| Rural Bangladesh Programs | 8,50,000         | 7,000            | Education, health, legal aid        |
+| Emergency Response Fund   | 5,00,000         | 4,200            | Reserved for sudden crises          |
+| Staff Salaries & Honorariums | 6,00,000     | 5,000            | Field staff, advisors, volunteers   |
+| Training & Ethics         | 2,00,000         | 1,700            | Onboarding, trauma sensitivity      |
+| IT & Digital Infrastructure | 1,50,000       | 1,200            | Platforms, cybersecurity, YAML logs |
+| Monitoring & Evaluation   | 1,00,000         | 850              | Field reports, KPI tracking         |
+| Audit & Compliance        | 75,000           | 650              | Internal/external audits            |
+| Documentation & Legacy    | 50,000           | 420              | Multilingual README, archival logs  |
+| **Total**                 | **37,25,000**    | **31,020**       |                                     |
+
+---
+
+### 📋 Sheet 2: **Monthly Breakdown**
+
+| Month     | Gaza Relief | Rural BD | Emergency | Salaries | Training | IT/Digital | M&E | Audit | Legacy |
+|-----------|-------------|----------|-----------|----------|----------|------------|-----|-------|--------|
+| January   | 1,00,000    | 80,000   | 50,000    | 50,000   | 20,000   | 10,000     | 8,000 | 5,000 | 4,000  |
+| February  | ...         | ...      | ...       | ...      | ...      | ...        | ... | ...   | ...    |
+| ...       | ...         | ...      | ...       | ...      | ...      | ...        | ... | ...   | ...    |
+| December  | ...         | ...      | ...       | ...      | ...      | ...        | ... | ...   | ...    |
+
+---
+
+### 🧮 Sheet 3: **Donor-Linked Allocations**
+
+| Donor ID     | Donor Name                 | Amount (USD) | Purpose Tag           | Linked Budget Line        |
+|--------------|----------------------------|--------------|------------------------|----------------------------|
+| GD-2025-001  | Humanity United Foundation | 5,000        | Gaza Emergency Relief  | Gaza Relief Operations     |
+| LD-2025-003  | Green Hope Agro Ltd.       | 500          | Flood Logistics        | Rural Bangladesh Programs  |
+| GD-2025-004  | Global Peace Initiative    | 3,000        | Volunteer Training     | Training & Ethics          |
+
+---
+
+### 📌 Sheet 4: **Audit Notes & Confirmations**
+
+| Entry ID | Reviewed By       | Date       | Notes                              | Status     |
+|----------|-------------------|------------|------------------------------------|------------|
+| BGT-2025-001 | Finance Desk     | 2025-01-15 | Gaza disbursement confirmed        | Verified   |
+| BGT-2025-002 | Legal Compliance | 2025-02-10 | Crypto donation linked to training | Verified   |
+| BGT-2025-003 | Audit Committee  | 2025-03-05 | Rural BD fund pending MoU          | Pending    |
+
+---
+
